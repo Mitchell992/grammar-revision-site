@@ -7,6 +7,7 @@ import { Spinner } from '@/components/ui/spinner';
 import { getGrammarPoints, GrammarPoint, Question, getAllQuestions } from '@/lib/grammarData';
 import PracticeQuestion from '@/components/PracticeQuestion';
 import GrammarModule from '@/components/GrammarModule';
+import MixedPractice from '@/components/MixedPractice';
 import { BookOpen, Zap, BarChart3 } from 'lucide-react';
 
 type ViewMode = 'learn' | 'practice' | 'mixed' | 'stats';
@@ -249,16 +250,7 @@ export default function Home() {
 
           {/* Mixed Tab */}
           <TabsContent value="mixed" className="space-y-6">
-            <Card>
-              <CardHeader>
-                <CardTitle>混合练习</CardTitle>
-                <CardDescription>随机从所有语法点中选择题目进行练习</CardDescription>
-              </CardHeader>
-              <CardContent>
-                <p className="text-muted-foreground mb-4">此功能即将推出...</p>
-                <Button disabled>开始混合练习</Button>
-              </CardContent>
-            </Card>
+            <MixedPractice grammarPoints={grammarPoints} questionCount={20} />
           </TabsContent>
 
           {/* Stats Tab */}
