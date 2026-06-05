@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
@@ -15,6 +15,13 @@ export default function PracticeQuestion({ question, onAnswer }: PracticeQuestio
   const [selectedAnswer, setSelectedAnswer] = useState<string>('');
   const [submitted, setSubmitted] = useState(false);
   const [isCorrect, setIsCorrect] = useState(false);
+
+  // Reset state when question changes
+  useEffect(() => {
+    setSelectedAnswer('');
+    setSubmitted(false);
+    setIsCorrect(false);
+  }, [question.id]);
 
   const handleSubmit = () => {
     const correct = selectedAnswer === question.answer;
