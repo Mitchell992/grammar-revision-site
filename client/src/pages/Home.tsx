@@ -1,22 +1,33 @@
-import { useEffect, useState } from 'react';
-import { Button } from '@/components/ui/button';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
-import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
-import { Badge } from '@/components/ui/badge';
-import { Spinner } from '@/components/ui/spinner';
-import { getGrammarPoints, GrammarPoint, Question, getAllQuestions } from '@/lib/grammarData';
-import PracticeQuestion from '@/components/PracticeQuestion';
-import GrammarModule from '@/components/GrammarModule';
-import MixedPractice from '@/components/MixedPractice';
-import { BookOpen, Zap, BarChart3 } from 'lucide-react';
+import { useEffect, useState } from "react";
+import { Button } from "@/components/ui/button";
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { Badge } from "@/components/ui/badge";
+import { Spinner } from "@/components/ui/spinner";
+import {
+  getGrammarPoints,
+  GrammarPoint,
+  Question,
+  getAllQuestions,
+} from "@/lib/grammarData";
+import PracticeQuestion from "@/components/PracticeQuestion";
+import GrammarModule from "@/components/GrammarModule";
+import MixedPractice from "@/components/MixedPractice";
+import { BookOpen, Zap, BarChart3 } from "lucide-react";
 
-type ViewMode = 'learn' | 'practice' | 'mixed' | 'stats';
+type ViewMode = "learn" | "practice" | "mixed" | "stats";
 
 export default function Home() {
   const [grammarPoints, setGrammarPoints] = useState<GrammarPoint[]>([]);
   const [allQuestions, setAllQuestions] = useState<Question[]>([]);
   const [loading, setLoading] = useState(true);
-  const [viewMode, setViewMode] = useState<ViewMode>('learn');
+  const [viewMode, setViewMode] = useState<ViewMode>("learn");
   const [selectedGrammarId, setSelectedGrammarId] = useState<number>(1);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [correctCount, setCorrectCount] = useState(0);
@@ -28,11 +39,11 @@ export default function Home() {
         const points = await getGrammarPoints();
         setGrammarPoints(points);
         setSelectedGrammarId(points[0]?.id || 1);
-        
+
         const questions = await getAllQuestions();
         setAllQuestions(questions);
       } catch (error) {
-        console.error('Failed to load grammar data:', error);
+        console.error("Failed to load grammar data:", error);
       } finally {
         setLoading(false);
       }
@@ -46,7 +57,9 @@ export default function Home() {
       <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-50 to-indigo-100">
         <div className="text-center space-y-4">
           <Spinner className="w-12 h-12 mx-auto" />
-          <p className="text-lg font-medium text-foreground">加载语法数据中...</p>
+          <p className="text-lg font-medium text-foreground">
+            加载语法数据中...
+          </p>
         </div>
       </div>
     );
@@ -86,8 +99,12 @@ export default function Home() {
                 <BookOpen className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h1 className="text-2xl font-bold text-foreground">中考英语语法复习</h1>
-                <p className="text-sm text-muted-foreground">240道精选题 | 12个语法点</p>
+                <h1 className="text-2xl font-bold text-foreground">
+                  中考英语语法复习
+                </h1>
+                <p className="text-sm text-muted-foreground">
+                  240道精选题 | 12个语法点
+                </p>
               </div>
             </div>
             <Badge className="bg-green-100 text-green-800 text-sm">v2.0</Badge>
@@ -97,7 +114,11 @@ export default function Home() {
 
       {/* Main Content */}
       <main className="container max-w-7xl mx-auto px-4 py-8">
-        <Tabs value={viewMode} onValueChange={(v) => setViewMode(v as ViewMode)} className="w-full">
+        <Tabs
+          value={viewMode}
+          onValueChange={v => setViewMode(v as ViewMode)}
+          className="w-full"
+        >
           <TabsList className="grid w-full grid-cols-4 mb-8">
             <TabsTrigger value="learn" className="flex items-center gap-2">
               <BookOpen className="w-4 h-4" />
@@ -130,13 +151,19 @@ export default function Home() {
                     {grammarPoints.map(gp => (
                       <Button
                         key={gp.id}
-                        variant={selectedGrammarId === gp.id ? 'default' : 'outline'}
+                        variant={
+                          selectedGrammarId === gp.id ? "default" : "outline"
+                        }
                         className="w-full justify-start text-left h-auto py-2 px-3"
                         onClick={() => setSelectedGrammarId(gp.id)}
                       >
                         <div className="flex flex-col gap-1">
-                          <span className="font-semibold text-sm">{gp.name}</span>
-                          <span className="text-xs opacity-75">{gp.questions.length} 题</span>
+                          <span className="font-semibold text-sm">
+                            {gp.name}
+                          </span>
+                          <span className="text-xs opacity-75">
+                            {gp.questions.length} 题
+                          </span>
                         </div>
                       </Button>
                     ))}
@@ -146,7 +173,9 @@ export default function Home() {
 
               {/* Grammar Module Content */}
               <div className="lg:col-span-3">
-                {selectedGrammar && <GrammarModule grammarPoint={selectedGrammar} />}
+                {selectedGrammar && (
+                  <GrammarModule grammarPoint={selectedGrammar} />
+                )}
               </div>
             </div>
           </TabsContent>
@@ -164,7 +193,9 @@ export default function Home() {
                     {grammarPoints.map(gp => (
                       <Button
                         key={gp.id}
-                        variant={selectedGrammarId === gp.id ? 'default' : 'outline'}
+                        variant={
+                          selectedGrammarId === gp.id ? "default" : "outline"
+                        }
                         className="w-full justify-start text-left h-auto py-2 px-3"
                         onClick={() => {
                           setSelectedGrammarId(gp.id);
@@ -173,8 +204,12 @@ export default function Home() {
                         }}
                       >
                         <div className="flex flex-col gap-1">
-                          <span className="font-semibold text-sm">{gp.name}</span>
-                          <span className="text-xs opacity-75">{gp.questions.length} 题</span>
+                          <span className="font-semibold text-sm">
+                            {gp.name}
+                          </span>
+                          <span className="text-xs opacity-75">
+                            {gp.questions.length} 题
+                          </span>
                         </div>
                       </Button>
                     ))}
@@ -188,23 +223,31 @@ export default function Home() {
                   </CardHeader>
                   <CardContent className="space-y-3">
                     <div>
-                      <p className="text-xs text-muted-foreground mb-1">完成度</p>
+                      <p className="text-xs text-muted-foreground mb-1">
+                        完成度
+                      </p>
                       <div className="w-full bg-muted rounded-full h-2">
                         <div
                           className="bg-primary h-2 rounded-full transition-all"
                           style={{
-                            width: `${questionsForSelected.length > 0 ? ((currentQuestionIndex + 1) / questionsForSelected.length) * 100 : 0}%`
+                            width: `${questionsForSelected.length > 0 ? ((currentQuestionIndex + 1) / questionsForSelected.length) * 100 : 0}%`,
                           }}
                         />
                       </div>
                       <p className="text-xs text-muted-foreground mt-1">
-                        {currentQuestionIndex + 1} / {questionsForSelected.length}
+                        {currentQuestionIndex + 1} /{" "}
+                        {questionsForSelected.length}
                       </p>
                     </div>
                     <div>
-                      <p className="text-xs text-muted-foreground mb-1">正确率</p>
+                      <p className="text-xs text-muted-foreground mb-1">
+                        正确率
+                      </p>
                       <p className="text-lg font-bold text-primary">
-                        {totalAttempted > 0 ? Math.round((correctCount / totalAttempted) * 100) : 0}%
+                        {totalAttempted > 0
+                          ? Math.round((correctCount / totalAttempted) * 100)
+                          : 0}
+                        %
                       </p>
                     </div>
                   </CardContent>
@@ -215,14 +258,18 @@ export default function Home() {
               <div className="lg:col-span-3">
                 {currentQuestion ? (
                   <div className="space-y-4">
-                    <PracticeQuestion 
+                    <PracticeQuestion
                       question={currentQuestion}
                       onAnswer={handleAnswer}
                     />
                     <div className="flex gap-2">
                       <Button
                         variant="outline"
-                        onClick={() => setCurrentQuestionIndex(Math.max(0, currentQuestionIndex - 1))}
+                        onClick={() =>
+                          setCurrentQuestionIndex(
+                            Math.max(0, currentQuestionIndex - 1)
+                          )
+                        }
                         disabled={currentQuestionIndex === 0}
                         className="flex-1"
                       >
@@ -230,7 +277,10 @@ export default function Home() {
                       </Button>
                       <Button
                         onClick={handleNextQuestion}
-                        disabled={currentQuestionIndex === questionsForSelected.length - 1}
+                        disabled={
+                          currentQuestionIndex ===
+                          questionsForSelected.length - 1
+                        }
                         className="flex-1"
                       >
                         下一题
@@ -240,7 +290,9 @@ export default function Home() {
                 ) : (
                   <Card>
                     <CardContent className="pt-6">
-                      <p className="text-center text-muted-foreground">没有可用的题目</p>
+                      <p className="text-center text-muted-foreground">
+                        没有可用的题目
+                      </p>
                     </CardContent>
                   </Card>
                 )}
@@ -263,15 +315,21 @@ export default function Home() {
                 <div className="grid grid-cols-3 gap-4">
                   <div className="p-4 bg-blue-50 rounded-lg border border-blue-200">
                     <p className="text-sm text-muted-foreground mb-1">总题数</p>
-                    <p className="text-3xl font-bold text-primary">{allQuestions.length}</p>
+                    <p className="text-3xl font-bold text-primary">
+                      {allQuestions.length}
+                    </p>
                   </div>
                   <div className="p-4 bg-green-50 rounded-lg border border-green-200">
                     <p className="text-sm text-muted-foreground mb-1">已完成</p>
-                    <p className="text-3xl font-bold text-green-600">{totalAttempted}</p>
+                    <p className="text-3xl font-bold text-green-600">
+                      {totalAttempted}
+                    </p>
                   </div>
                   <div className="p-4 bg-purple-50 rounded-lg border border-purple-200">
                     <p className="text-sm text-muted-foreground mb-1">正确数</p>
-                    <p className="text-3xl font-bold text-purple-600">{correctCount}</p>
+                    <p className="text-3xl font-bold text-purple-600">
+                      {correctCount}
+                    </p>
                   </div>
                 </div>
               </CardContent>
@@ -283,7 +341,9 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t border-border bg-muted/50 mt-12">
         <div className="container max-w-7xl mx-auto px-4 py-6 text-center text-sm text-muted-foreground">
-          <p>中考英语语法复习网站 v2.1 | 240道精选题 | 12个语法点 | 标志词强制化</p>
+          <p>
+            中考英语语法复习网站 v2.1 | 240道精选题 | 12个语法点 | 标志词强制化
+          </p>
         </div>
       </footer>
     </div>

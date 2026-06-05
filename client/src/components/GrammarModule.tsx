@@ -1,6 +1,12 @@
-import { GrammarPoint } from '@/lib/grammarData';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
-import { Badge } from '@/components/ui/badge';
+import { GrammarPoint } from "@/lib/grammarData";
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
 
 interface GrammarModuleProps {
   grammarPoint: GrammarPoint;
@@ -45,7 +51,9 @@ export default function GrammarModule({ grammarPoint }: GrammarModuleProps) {
           <h3 className="font-semibold text-foreground">题型</h3>
           <div className="p-3 bg-blue-50 rounded-lg border border-blue-200 text-center">
             <p className="text-sm font-medium text-blue-900">选择题</p>
-            <p className="text-2xl font-bold text-primary">{grammarPoint.questions.length}</p>
+            <p className="text-2xl font-bold text-primary">
+              {grammarPoint.questions.length}
+            </p>
           </div>
         </div>
       </CardContent>

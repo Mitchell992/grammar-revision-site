@@ -1,24 +1,33 @@
-import { useState, useEffect } from 'react';
-import { Button } from '@/components/ui/button';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
-import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
-import { Label } from '@/components/ui/label';
-import { Question, parseExplanation } from '@/lib/grammarData';
-import { CheckCircle2, XCircle } from 'lucide-react';
+import { useState, useEffect } from "react";
+import { Button } from "@/components/ui/button";
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
+import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group";
+import { Label } from "@/components/ui/label";
+import { Question, parseExplanation } from "@/lib/grammarData";
+import { CheckCircle2, XCircle } from "lucide-react";
 
 interface PracticeQuestionProps {
   question: Question;
   onAnswer?: (isCorrect: boolean) => void;
 }
 
-export default function PracticeQuestion({ question, onAnswer }: PracticeQuestionProps) {
-  const [selectedAnswer, setSelectedAnswer] = useState<string>('');
+export default function PracticeQuestion({
+  question,
+  onAnswer,
+}: PracticeQuestionProps) {
+  const [selectedAnswer, setSelectedAnswer] = useState<string>("");
   const [submitted, setSubmitted] = useState(false);
   const [isCorrect, setIsCorrect] = useState(false);
 
   // Reset state when question changes
   useEffect(() => {
-    setSelectedAnswer('');
+    setSelectedAnswer("");
     setSubmitted(false);
     setIsCorrect(false);
   }, [question.id]);
@@ -31,32 +40,33 @@ export default function PracticeQuestion({ question, onAnswer }: PracticeQuestio
   };
 
   const handleReset = () => {
-    setSelectedAnswer('');
+    setSelectedAnswer("");
     setSubmitted(false);
     setIsCorrect(false);
   };
 
   const renderExplanation = () => {
     const parts = parseExplanation(question.explanation);
-    
+
     return (
       <div className="space-y-3 p-4 bg-blue-50 rounded-lg border border-blue-200">
         <h4 className="font-semibold text-blue-900">解析</h4>
         <p className="text-sm text-blue-900 leading-relaxed">
           {parts.map((part, idx) => {
-            if (typeof part === 'string') {
+            if (typeof part === "string") {
               return <span key={idx}>{part}</span>;
             }
-            if (part.type === 'signal') {
+            if (part.type === "signal") {
               return (
-                <mark key={idx} className="bg-yellow-200 font-semibold px-1 rounded">
+                <mark
+                  key={idx}
+                  className="bg-yellow-200 font-semibold px-1 rounded"
+                >
                   {part.content}
                 </mark>
               );
             }
-            return (
-              <strong key={idx}>{part.content}</strong>
-            );
+            return <strong key={idx}>{part.content}</strong>;
           })}
         </p>
       </div>
@@ -68,22 +78,34 @@ export default function PracticeQuestion({ question, onAnswer }: PracticeQuestio
       <CardHeader>
         <CardTitle className="text-lg">选择题</CardTitle>
         <CardDescription>
-          词汇: {question.vocabulary.join(', ')}
+          词汇: {question.vocabulary.join(", ")}
         </CardDescription>
       </CardHeader>
 
       <CardContent className="space-y-6">
         {/* Question */}
         <div className="space-y-4">
-          <p className="text-base leading-relaxed font-medium">{question.question}</p>
-          
+          <p className="text-base leading-relaxed font-medium">
+            {question.question}
+          </p>
+
           {/* Multiple Choice Options */}
           <div className="space-y-3">
-            <RadioGroup value={selectedAnswer} onValueChange={setSelectedAnswer} disabled={submitted}>
+            <RadioGroup
+              value={selectedAnswer}
+              onValueChange={setSelectedAnswer}
+              disabled={submitted}
+            >
               {question.options?.map((option, idx) => (
-                <div key={idx} className="flex items-center space-x-2 p-3 rounded-lg border border-border hover:bg-muted transition-colors cursor-pointer">
+                <div
+                  key={idx}
+                  className="flex items-center space-x-2 p-3 rounded-lg border border-border hover:bg-muted transition-colors cursor-pointer"
+                >
                   <RadioGroupItem value={option} id={`option-${idx}`} />
-                  <Label htmlFor={`option-${idx}`} className="cursor-pointer flex-1 font-medium">
+                  <Label
+                    htmlFor={`option-${idx}`}
+                    className="cursor-pointer flex-1 font-medium"
+                  >
                     {option}
                   </Label>
                 </div>
@@ -95,7 +117,7 @@ export default function PracticeQuestion({ question, onAnswer }: PracticeQuestio
         {/* Buttons */}
         <div className="flex gap-2">
           {!submitted ? (
-            <Button 
+            <Button
               onClick={handleSubmit}
               disabled={!selectedAnswer}
               className="w-full"
@@ -104,17 +126,14 @@ export default function PracticeQuestion({ question, onAnswer }: PracticeQuestio
             </Button>
           ) : (
             <>
-              <Button 
+              <Button
                 onClick={handleReset}
                 variant="outline"
                 className="w-full"
               >
                 重新做题
               </Button>
-              <Button 
-                variant="ghost"
-                className="w-full"
-              >
+              <Button variant="ghost" className="w-full">
                 下一题
               </Button>
             </>
@@ -123,7 +142,9 @@ export default function PracticeQuestion({ question, onAnswer }: PracticeQuestio
 
         {/* Result */}
         {submitted && (
-          <div className={`p-4 rounded-lg border-2 ${isCorrect ? 'bg-green-50 border-green-200' : 'bg-red-50 border-red-200'}`}>
+          <div
+            className={`p-4 rounded-lg border-2 ${isCorrect ? "bg-green-50 border-green-200" : "bg-red-50 border-red-200"}`}
+          >
             <div className="flex items-center gap-2 mb-3">
               {isCorrect ? (
                 <>
@@ -145,8 +166,12 @@ export default function PracticeQuestion({ question, onAnswer }: PracticeQuestio
             )}
             {renderExplanation()}
             <div className="mt-3 p-3 bg-blue-100 rounded border border-blue-300">
-              <p className="text-sm font-semibold text-blue-900 mb-1">中文翻译</p>
-              <p className="text-sm text-blue-900">{question.chineseTranslation}</p>
+              <p className="text-sm font-semibold text-blue-900 mb-1">
+                中文翻译
+              </p>
+              <p className="text-sm text-blue-900">
+                {question.chineseTranslation}
+              </p>
             </div>
           </div>
         )}

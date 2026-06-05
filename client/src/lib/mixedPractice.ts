@@ -1,4 +1,4 @@
-import { Question, GrammarPoint } from './grammarData';
+import { Question, GrammarPoint } from "./grammarData";
 
 export interface MixedPracticeSession {
   id: string;
@@ -49,7 +49,9 @@ export const createMixedPracticeSession = (
 /**
  * Get the current question in the session
  */
-export const getCurrentQuestion = (session: MixedPracticeSession): Question | null => {
+export const getCurrentQuestion = (
+  session: MixedPracticeSession
+): Question | null => {
   if (session.currentIndex >= session.questions.length) {
     return null;
   }
@@ -64,10 +66,10 @@ export const getGrammarPointName = (
   question: Question & { grammarPointId?: number }
 ): string => {
   const grammarPointId = (question as any).grammarPointId;
-  if (!grammarPointId) return 'Unknown';
-  
+  if (!grammarPointId) return "Unknown";
+
   const gp = session.grammarPointMap.get(grammarPointId);
-  return gp?.name || 'Unknown';
+  return gp?.name || "Unknown";
 };
 
 /**
@@ -87,17 +89,24 @@ export const recordAnswer = (
 /**
  * Move to next question
  */
-export const moveToNextQuestion = (session: MixedPracticeSession): MixedPracticeSession => {
+export const moveToNextQuestion = (
+  session: MixedPracticeSession
+): MixedPracticeSession => {
   return {
     ...session,
-    currentIndex: Math.min(session.currentIndex + 1, session.questions.length - 1),
+    currentIndex: Math.min(
+      session.currentIndex + 1,
+      session.questions.length - 1
+    ),
   };
 };
 
 /**
  * Move to previous question
  */
-export const moveToPreviousQuestion = (session: MixedPracticeSession): MixedPracticeSession => {
+export const moveToPreviousQuestion = (
+  session: MixedPracticeSession
+): MixedPracticeSession => {
   return {
     ...session,
     currentIndex: Math.max(session.currentIndex - 1, 0),
@@ -108,19 +117,25 @@ export const moveToPreviousQuestion = (session: MixedPracticeSession): MixedPrac
  * Check if the session is complete
  */
 export const isSessionComplete = (session: MixedPracticeSession): boolean => {
-  return session.currentIndex >= session.questions.length - 1 && session.totalAttempted > 0;
+  return (
+    session.currentIndex >= session.questions.length - 1 &&
+    session.totalAttempted > 0
+  );
 };
 
 /**
  * Get session statistics
  */
 export const getSessionStats = (session: MixedPracticeSession) => {
-  const accuracy = session.totalAttempted > 0 
-    ? Math.round((session.correctCount / session.totalAttempted) * 100)
-    : 0;
-  
-  const elapsedTime = Math.floor((Date.now() - session.startTime.getTime()) / 1000);
-  
+  const accuracy =
+    session.totalAttempted > 0
+      ? Math.round((session.correctCount / session.totalAttempted) * 100)
+      : 0;
+
+  const elapsedTime = Math.floor(
+    (Date.now() - session.startTime.getTime()) / 1000
+  );
+
   return {
     totalQuestions: session.questions.length,
     attempted: session.totalAttempted,

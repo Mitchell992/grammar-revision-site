@@ -16,52 +16,31 @@
           "id": 101,
           "type": "multiple_choice",
           "question": "She ________ (go) to the library every day.",
-          "options": [
-            "go",
-            "goes",
-            "going",
-            "went"
-          ],
+          "options": ["go", "goes", "going", "went"],
           "answer": "goes",
           "explanation": "这道题考查的是Simple Present Tense的用法。",
           "chineseTranslation": "她每天去图书馆。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 102,
           "type": "multiple_choice",
           "question": "The librarian ________ (recommend) good books usually.",
-          "options": [
-            "recommend",
-            "recommends",
-            "recommending",
-            "recommended"
-          ],
+          "options": ["recommend", "recommends", "recommending", "recommended"],
           "answer": "recommends",
           "explanation": "这道题考查的是Simple Present Tense的用法。",
           "chineseTranslation": "她每天去图书馆。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 103,
           "type": "multiple_choice",
           "question": "They ________ (volunteer) at the shelter every weekend.",
-          "options": [
-            "volunteer",
-            "volunteers",
-            "volunteering",
-            "volunteered"
-          ],
+          "options": ["volunteer", "volunteers", "volunteering", "volunteered"],
           "answer": "volunteer",
           "explanation": "这道题考查的是Simple Present Tense的用法。",
           "chineseTranslation": "她每天去图书馆。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 104,
@@ -76,111 +55,67 @@
           "answer": "never misses",
           "explanation": "这道题考查的是Simple Present Tense的用法。",
           "chineseTranslation": "她每天去图书馆。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 105,
           "type": "multiple_choice",
           "question": "The organization ________ (provide) donations every month.",
-          "options": [
-            "provide",
-            "provides",
-            "providing",
-            "provided"
-          ],
+          "options": ["provide", "provides", "providing", "provided"],
           "answer": "provides",
           "explanation": "这道题考查的是Simple Present Tense的用法。",
           "chineseTranslation": "她每天去图书馆。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 106,
           "type": "multiple_choice",
           "question": "Science fiction ________ (attract) many young readers.",
-          "options": [
-            "attract",
-            "attracts",
-            "attracting",
-            "attracted"
-          ],
+          "options": ["attract", "attracts", "attracting", "attracted"],
           "answer": "attracts",
           "explanation": "这道题考查的是Simple Present Tense的用法。",
           "chineseTranslation": "她每天去图书馆。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 107,
           "type": "multiple_choice",
           "question": "The interviewer ________ (ask) important questions usually.",
-          "options": [
-            "ask",
-            "asks",
-            "asking",
-            "asked"
-          ],
+          "options": ["ask", "asks", "asking", "asked"],
           "answer": "asks",
           "explanation": "这道题考查的是Simple Present Tense的用法。",
           "chineseTranslation": "她每天去图书馆。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 108,
           "type": "multiple_choice",
           "question": "Volunteers ________ (help) people in need often.",
-          "options": [
-            "help",
-            "helps",
-            "helping",
-            "helped"
-          ],
+          "options": ["help", "helps", "helping", "helped"],
           "answer": "help",
           "explanation": "这道题考查的是Simple Present Tense的用法。",
           "chineseTranslation": "她每天去图书馆。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 109,
           "type": "multiple_choice",
           "question": "The elderly ________ (value) teamwork always.",
-          "options": [
-            "value",
-            "values",
-            "valuing",
-            "valued"
-          ],
+          "options": ["value", "values", "valuing", "valued"],
           "answer": "value",
           "explanation": "这道题考查的是Simple Present Tense的用法。",
           "chineseTranslation": "她每天去图书馆。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 110,
           "type": "multiple_choice",
           "question": "She ________ (sign) up for charity work every year.",
-          "options": [
-            "sign",
-            "signs",
-            "signing",
-            "signed"
-          ],
+          "options": ["sign", "signs", "signing", "signed"],
           "answer": "signs",
           "explanation": "这道题考查的是Simple Present Tense的用法。",
           "chineseTranslation": "她每天去图书馆。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 111,
@@ -195,77 +130,47 @@
           "answer": "investigates",
           "explanation": "这道题考查的是Simple Present Tense的用法。",
           "chineseTranslation": "她每天去图书馆。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 112,
           "type": "multiple_choice",
           "question": "They ________ (donate) money to the organization every month.",
-          "options": [
-            "donate",
-            "donates",
-            "donating",
-            "donated"
-          ],
+          "options": ["donate", "donates", "donating", "donated"],
           "answer": "donate",
           "explanation": "这道题考查的是Simple Present Tense的用法。",
           "chineseTranslation": "她每天去图书馆。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 113,
           "type": "multiple_choice",
           "question": "The lady ________ (make) a difference in the community.",
-          "options": [
-            "make",
-            "makes",
-            "making",
-            "made"
-          ],
+          "options": ["make", "makes", "making", "made"],
           "answer": "makes",
           "explanation": "这道题考查的是Simple Present Tense的用法。",
           "chineseTranslation": "她每天去图书馆。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 114,
           "type": "multiple_choice",
           "question": "The gentleman ________ (help) others often.",
-          "options": [
-            "help",
-            "helps",
-            "helping",
-            "helped"
-          ],
+          "options": ["help", "helps", "helping", "helped"],
           "answer": "helps",
           "explanation": "这道题考查的是Simple Present Tense的用法。",
           "chineseTranslation": "她每天去图书馆。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 115,
           "type": "multiple_choice",
           "question": "Readers ________ (enjoy) adventure stories usually.",
-          "options": [
-            "enjoy",
-            "enjoys",
-            "enjoying",
-            "enjoyed"
-          ],
+          "options": ["enjoy", "enjoys", "enjoying", "enjoyed"],
           "answer": "enjoy",
           "explanation": "这道题考查的是Simple Present Tense的用法。",
           "chineseTranslation": "她每天去图书馆。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 116,
@@ -280,9 +185,7 @@
           "answer": "participate",
           "explanation": "这道题考查的是Simple Present Tense的用法。",
           "chineseTranslation": "她每天去图书馆。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 117,
@@ -297,60 +200,37 @@
           "answer": "never tells",
           "explanation": "这道题考查的是Simple Present Tense的用法。",
           "chineseTranslation": "她每天去图书馆。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 118,
           "type": "multiple_choice",
           "question": "The organization ________ (help) people in need always.",
-          "options": [
-            "help",
-            "helps",
-            "helping",
-            "helped"
-          ],
+          "options": ["help", "helps", "helping", "helped"],
           "answer": "helps",
           "explanation": "这道题考查的是Simple Present Tense的用法。",
           "chineseTranslation": "她每天去图书馆。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 119,
           "type": "multiple_choice",
           "question": "They ________ (work) at the shelter every Saturday.",
-          "options": [
-            "work",
-            "works",
-            "working",
-            "worked"
-          ],
+          "options": ["work", "works", "working", "worked"],
           "answer": "work",
           "explanation": "这道题考查的是Simple Present Tense的用法。",
           "chineseTranslation": "她每天去图书馆。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 120,
           "type": "multiple_choice",
           "question": "The interviewer ________ (record) the conversation usually.",
-          "options": [
-            "record",
-            "records",
-            "recording",
-            "recorded"
-          ],
+          "options": ["record", "records", "recording", "recorded"],
           "answer": "records",
           "explanation": "这道题考查的是Simple Present Tense的用法。",
           "chineseTranslation": "她每天去图书馆。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         }
       ]
     },
@@ -364,154 +244,91 @@
           "id": 201,
           "type": "multiple_choice",
           "question": "She ________ (hear) of the mystery yesterday.",
-          "options": [
-            "heard",
-            "hears",
-            "has heard",
-            "is hearing"
-          ],
+          "options": ["heard", "hears", "has heard", "is hearing"],
           "answer": "heard",
           "explanation": "这道题考查的是Simple Past Tense的用法。",
           "chineseTranslation": "她昨天听说了这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 202,
           "type": "multiple_choice",
           "question": "The detective ________ (find) the evidence last week.",
-          "options": [
-            "found",
-            "finds",
-            "has found",
-            "is finding"
-          ],
+          "options": ["found", "finds", "has found", "is finding"],
           "answer": "found",
           "explanation": "这道题考查的是Simple Past Tense的用法。",
           "chineseTranslation": "她昨天听说了这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 203,
           "type": "multiple_choice",
           "question": "They ________ (visit) the shelter two days ago.",
-          "options": [
-            "visited",
-            "visit",
-            "have visited",
-            "are visiting"
-          ],
+          "options": ["visited", "visit", "have visited", "are visiting"],
           "answer": "visited",
           "explanation": "这道题考查的是Simple Past Tense的用法。",
           "chineseTranslation": "她昨天听说了这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 204,
           "type": "multiple_choice",
           "question": "He ________ (lock) the cage yesterday evening.",
-          "options": [
-            "locked",
-            "locks",
-            "has locked",
-            "is locking"
-          ],
+          "options": ["locked", "locks", "has locked", "is locking"],
           "answer": "locked",
           "explanation": "这道题考查的是Simple Past Tense的用法。",
           "chineseTranslation": "她昨天听说了这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 205,
           "type": "multiple_choice",
           "question": "The organization ________ (provide) donations last month.",
-          "options": [
-            "provided",
-            "provides",
-            "has provided",
-            "is providing"
-          ],
+          "options": ["provided", "provides", "has provided", "is providing"],
           "answer": "provided",
           "explanation": "这道题考查的是Simple Past Tense的用法。",
           "chineseTranslation": "她昨天听说了这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 206,
           "type": "multiple_choice",
           "question": "She ________ (steal) the book three days ago.",
-          "options": [
-            "stole",
-            "steals",
-            "has stolen",
-            "is stealing"
-          ],
+          "options": ["stole", "steals", "has stolen", "is stealing"],
           "answer": "stole",
           "explanation": "这道题考查的是Simple Past Tense的用法。",
           "chineseTranslation": "她昨天听说了这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 207,
           "type": "multiple_choice",
           "question": "The interviewer ________ (ask) important questions last year.",
-          "options": [
-            "asked",
-            "asks",
-            "has asked",
-            "is asking"
-          ],
+          "options": ["asked", "asks", "has asked", "is asking"],
           "answer": "asked",
           "explanation": "这道题考查的是Simple Past Tense的用法。",
           "chineseTranslation": "她昨天听说了这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 208,
           "type": "multiple_choice",
           "question": "Volunteers ________ (help) the elderly last weekend.",
-          "options": [
-            "helped",
-            "help",
-            "have helped",
-            "are helping"
-          ],
+          "options": ["helped", "help", "have helped", "are helping"],
           "answer": "helped",
           "explanation": "这道题考查的是Simple Past Tense的用法。",
           "chineseTranslation": "她昨天听说了这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 209,
           "type": "multiple_choice",
           "question": "The naughty boy ________ (punish) by his teacher yesterday.",
-          "options": [
-            "was punished",
-            "is punished",
-            "punishes",
-            "punished"
-          ],
+          "options": ["was punished", "is punished", "punishes", "punished"],
           "answer": "was punished",
           "explanation": "这道题考查的是Simple Past Tense的用法。",
           "chineseTranslation": "她昨天听说了这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 210,
@@ -526,26 +343,17 @@
           "answer": "destroyed",
           "explanation": "这道题考查的是Simple Past Tense的用法。",
           "chineseTranslation": "她昨天听说了这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 211,
           "type": "multiple_choice",
           "question": "The army ________ (defeat) the enemy last year.",
-          "options": [
-            "defeated",
-            "defeats",
-            "has defeated",
-            "is defeating"
-          ],
+          "options": ["defeated", "defeats", "has defeated", "is defeating"],
           "answer": "defeated",
           "explanation": "这道题考查的是Simple Past Tense的用法。",
           "chineseTranslation": "她昨天听说了这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 212,
@@ -560,145 +368,87 @@
           "answer": "recommended",
           "explanation": "这道题考查的是Simple Past Tense的用法。",
           "chineseTranslation": "她昨天听说了这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 213,
           "type": "multiple_choice",
           "question": "The librarian ________ (unlock) the door this morning.",
-          "options": [
-            "unlocked",
-            "unlocks",
-            "has unlocked",
-            "is unlocking"
-          ],
+          "options": ["unlocked", "unlocks", "has unlocked", "is unlocking"],
           "answer": "unlocked",
           "explanation": "这道题考查的是Simple Past Tense的用法。",
           "chineseTranslation": "她昨天听说了这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 214,
           "type": "multiple_choice",
           "question": "They ________ (sign) up for the charity last month.",
-          "options": [
-            "signed",
-            "sign",
-            "have signed",
-            "are signing"
-          ],
+          "options": ["signed", "sign", "have signed", "are signing"],
           "answer": "signed",
           "explanation": "这道题考查的是Simple Past Tense的用法。",
           "chineseTranslation": "她昨天听说了这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 215,
           "type": "multiple_choice",
           "question": "The detective ________ (prove) his innocence yesterday.",
-          "options": [
-            "proved",
-            "proves",
-            "has proved",
-            "is proving"
-          ],
+          "options": ["proved", "proves", "has proved", "is proving"],
           "answer": "proved",
           "explanation": "这道题考查的是Simple Past Tense的用法。",
           "chineseTranslation": "她昨天听说了这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 216,
           "type": "multiple_choice",
           "question": "She ________ (get) lost in the city last week.",
-          "options": [
-            "got",
-            "gets",
-            "has got",
-            "is getting"
-          ],
+          "options": ["got", "gets", "has got", "is getting"],
           "answer": "got",
           "explanation": "这道题考查的是Simple Past Tense的用法。",
           "chineseTranslation": "她昨天听说了这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 217,
           "type": "multiple_choice",
           "question": "The organization ________ (donate) money three months ago.",
-          "options": [
-            "donated",
-            "donates",
-            "has donated",
-            "is donating"
-          ],
+          "options": ["donated", "donates", "has donated", "is donating"],
           "answer": "donated",
           "explanation": "这道题考查的是Simple Past Tense的用法。",
           "chineseTranslation": "她昨天听说了这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 218,
           "type": "multiple_choice",
           "question": "They ________ (come) along with us yesterday.",
-          "options": [
-            "came",
-            "come",
-            "have come",
-            "are coming"
-          ],
+          "options": ["came", "come", "have come", "are coming"],
           "answer": "came",
           "explanation": "这道题考查的是Simple Past Tense的用法。",
           "chineseTranslation": "她昨天听说了这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 219,
           "type": "multiple_choice",
           "question": "The lady ________ (make) a difference last year.",
-          "options": [
-            "made",
-            "makes",
-            "has made",
-            "is making"
-          ],
+          "options": ["made", "makes", "has made", "is making"],
           "answer": "made",
           "explanation": "这道题考查的是Simple Past Tense的用法。",
           "chineseTranslation": "她昨天听说了这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 220,
           "type": "multiple_choice",
           "question": "The gentleman ________ (help) the community in 2015.",
-          "options": [
-            "helped",
-            "helps",
-            "has helped",
-            "is helping"
-          ],
+          "options": ["helped", "helps", "has helped", "is helping"],
           "answer": "helped",
           "explanation": "这道题考查的是Simple Past Tense的用法。",
           "chineseTranslation": "她昨天听说了这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         }
       ]
     },
@@ -712,18 +462,11 @@
           "id": 301,
           "type": "multiple_choice",
           "question": "She ________ (read) the science fiction novel already.",
-          "options": [
-            "has read",
-            "reads",
-            "read",
-            "is reading"
-          ],
+          "options": ["has read", "reads", "read", "is reading"],
           "answer": "has read",
           "explanation": "这道题考查的是Present Perfect Tense的用法。",
           "chineseTranslation": "她已经读过这部小说。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 302,
@@ -738,9 +481,7 @@
           "answer": "have not finished",
           "explanation": "这道题考查的是Present Perfect Tense的用法。",
           "chineseTranslation": "她已经读过这部小说。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 303,
@@ -755,9 +496,7 @@
           "answer": "has just arrived",
           "explanation": "这道题考查的是Present Perfect Tense的用法。",
           "chineseTranslation": "她已经读过这部小说。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 304,
@@ -772,60 +511,37 @@
           "answer": "have volunteered",
           "explanation": "这道题考查的是Present Perfect Tense的用法。",
           "chineseTranslation": "她已经读过这部小说。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 305,
           "type": "multiple_choice",
           "question": "She ________ (work) for the organization for five years.",
-          "options": [
-            "has worked",
-            "works",
-            "worked",
-            "is working"
-          ],
+          "options": ["has worked", "works", "worked", "is working"],
           "answer": "has worked",
           "explanation": "这道题考查的是Present Perfect Tense的用法。",
           "chineseTranslation": "她已经读过这部小说。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 306,
           "type": "multiple_choice",
           "question": "Have you ________ (ever/hear) of this mystery?",
-          "options": [
-            "ever heard",
-            "ever hear",
-            "ever heard of",
-            "heard"
-          ],
+          "options": ["ever heard", "ever hear", "ever heard of", "heard"],
           "answer": "ever heard",
           "explanation": "这道题考查的是Present Perfect Tense的用法。",
           "chineseTranslation": "她已经读过这部小说。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 307,
           "type": "multiple_choice",
           "question": "The detective ________ (find) the hidden evidence already.",
-          "options": [
-            "has found",
-            "finds",
-            "found",
-            "is finding"
-          ],
+          "options": ["has found", "finds", "found", "is finding"],
           "answer": "has found",
           "explanation": "这道题考查的是Present Perfect Tense的用法。",
           "chineseTranslation": "她已经读过这部小说。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 308,
@@ -840,9 +556,7 @@
           "answer": "have not signed",
           "explanation": "这道题考查的是Present Perfect Tense的用法。",
           "chineseTranslation": "她已经读过这部小说。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 309,
@@ -857,43 +571,27 @@
           "answer": "has just unlocked",
           "explanation": "这道题考查的是Present Perfect Tense的用法。",
           "chineseTranslation": "她已经读过这部小说。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 310,
           "type": "multiple_choice",
           "question": "The organization ________ (donate) money since last year.",
-          "options": [
-            "has donated",
-            "donates",
-            "donated",
-            "is donating"
-          ],
+          "options": ["has donated", "donates", "donated", "is donating"],
           "answer": "has donated",
           "explanation": "这道题考查的是Present Perfect Tense的用法。",
           "chineseTranslation": "她已经读过这部小说。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 311,
           "type": "multiple_choice",
           "question": "Have they ________ (ever/visit) the stadium?",
-          "options": [
-            "ever visited",
-            "ever visit",
-            "visited",
-            "visiting"
-          ],
+          "options": ["ever visited", "ever visit", "visited", "visiting"],
           "answer": "ever visited",
           "explanation": "这道题考查的是Present Perfect Tense的用法。",
           "chineseTranslation": "她已经读过这部小说。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 312,
@@ -908,26 +606,17 @@
           "answer": "has just finished",
           "explanation": "这道题考查的是Present Perfect Tense的用法。",
           "chineseTranslation": "她已经读过这部小说。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 313,
           "type": "multiple_choice",
           "question": "She ________ (live) in this city for ten years.",
-          "options": [
-            "has lived",
-            "lives",
-            "lived",
-            "is living"
-          ],
+          "options": ["has lived", "lives", "lived", "is living"],
           "answer": "has lived",
           "explanation": "这道题考查的是Present Perfect Tense的用法。",
           "chineseTranslation": "她已经读过这部小说。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 314,
@@ -942,60 +631,37 @@
           "answer": "have not received",
           "explanation": "这道题考查的是Present Perfect Tense的用法。",
           "chineseTranslation": "她已经读过这部小说。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 315,
           "type": "multiple_choice",
           "question": "The detective ________ (solve) many mysteries already.",
-          "options": [
-            "has solved",
-            "solves",
-            "solved",
-            "is solving"
-          ],
+          "options": ["has solved", "solves", "solved", "is solving"],
           "answer": "has solved",
           "explanation": "这道题考查的是Present Perfect Tense的用法。",
           "chineseTranslation": "她已经读过这部小说。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 316,
           "type": "multiple_choice",
           "question": "Have you ________ (ever/make) a difference in your community?",
-          "options": [
-            "ever made",
-            "ever make",
-            "made",
-            "making"
-          ],
+          "options": ["ever made", "ever make", "made", "making"],
           "answer": "ever made",
           "explanation": "这道题考查的是Present Perfect Tense的用法。",
           "chineseTranslation": "她已经读过这部小说。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 317,
           "type": "multiple_choice",
           "question": "She ________ (work) as a librarian since 2010.",
-          "options": [
-            "has worked",
-            "works",
-            "worked",
-            "is working"
-          ],
+          "options": ["has worked", "works", "worked", "is working"],
           "answer": "has worked",
           "explanation": "这道题考查的是Present Perfect Tense的用法。",
           "chineseTranslation": "她已经读过这部小说。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 318,
@@ -1010,9 +676,7 @@
           "answer": "have not proved",
           "explanation": "这道题考查的是Present Perfect Tense的用法。",
           "chineseTranslation": "她已经读过这部小说。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 319,
@@ -1027,26 +691,17 @@
           "answer": "have participated",
           "explanation": "这道题考查的是Present Perfect Tense的用法。",
           "chineseTranslation": "她已经读过这部小说。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 320,
           "type": "multiple_choice",
           "question": "Have you ________ (ever/hear) about the charity organization?",
-          "options": [
-            "ever heard",
-            "ever hear",
-            "heard",
-            "hearing"
-          ],
+          "options": ["ever heard", "ever hear", "heard", "hearing"],
           "answer": "ever heard",
           "explanation": "这道题考查的是Present Perfect Tense的用法。",
           "chineseTranslation": "她已经读过这部小说。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         }
       ]
     },
@@ -1060,35 +715,21 @@
           "id": 401,
           "type": "multiple_choice",
           "question": "The mystery novel ________ (write) by a famous author in 2020.",
-          "options": [
-            "was written",
-            "is written",
-            "writes",
-            "has written"
-          ],
+          "options": ["was written", "is written", "writes", "has written"],
           "answer": "was written",
           "explanation": "这道题考查的是Passive Voice的用法。",
           "chineseTranslation": "这部小说是由著名作家写的。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 402,
           "type": "multiple_choice",
           "question": "The shelter ________ (build) by the organization in 2015.",
-          "options": [
-            "was built",
-            "is built",
-            "builds",
-            "has built"
-          ],
+          "options": ["was built", "is built", "builds", "has built"],
           "answer": "was built",
           "explanation": "这道题考查的是Passive Voice的用法。",
           "chineseTranslation": "这部小说是由著名作家写的。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 403,
@@ -1103,26 +744,17 @@
           "answer": "are collected",
           "explanation": "这道题考查的是Passive Voice的用法。",
           "chineseTranslation": "这部小说是由著名作家写的。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 404,
           "type": "multiple_choice",
           "question": "The evidence ________ (find) by the detective yesterday.",
-          "options": [
-            "was found",
-            "is found",
-            "finds",
-            "has found"
-          ],
+          "options": ["was found", "is found", "finds", "has found"],
           "answer": "was found",
           "explanation": "这道题考查的是Passive Voice的用法。",
           "chineseTranslation": "这部小说是由著名作家写的。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 405,
@@ -1137,9 +769,7 @@
           "answer": "was punished",
           "explanation": "这道题考查的是Passive Voice的用法。",
           "chineseTranslation": "这部小说是由著名作家写的。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 406,
@@ -1154,60 +784,37 @@
           "answer": "is recommended",
           "explanation": "这道题考查的是Passive Voice的用法。",
           "chineseTranslation": "这部小说是由著名作家写的。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 407,
           "type": "multiple_choice",
           "question": "The cage ________ (unlock) by the volunteer.",
-          "options": [
-            "was unlocked",
-            "is unlocked",
-            "unlocks",
-            "has unlocked"
-          ],
+          "options": ["was unlocked", "is unlocked", "unlocks", "has unlocked"],
           "answer": "was unlocked",
           "explanation": "这道题考查的是Passive Voice的用法。",
           "chineseTranslation": "这部小说是由著名作家写的。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 408,
           "type": "multiple_choice",
           "question": "The interview ________ (record) by the interviewer.",
-          "options": [
-            "was recorded",
-            "is recorded",
-            "records",
-            "has recorded"
-          ],
+          "options": ["was recorded", "is recorded", "records", "has recorded"],
           "answer": "was recorded",
           "explanation": "这道题考查的是Passive Voice的用法。",
           "chineseTranslation": "这部小说是由著名作家写的。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 409,
           "type": "multiple_choice",
           "question": "The enemy ________ (defeat) by the army.",
-          "options": [
-            "was defeated",
-            "is defeated",
-            "defeats",
-            "has defeated"
-          ],
+          "options": ["was defeated", "is defeated", "defeats", "has defeated"],
           "answer": "was defeated",
           "explanation": "这道题考查的是Passive Voice的用法。",
           "chineseTranslation": "这部小说是由著名作家写的。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 410,
@@ -1222,9 +829,7 @@
           "answer": "was destroyed",
           "explanation": "这道题考查的是Passive Voice的用法。",
           "chineseTranslation": "这部小说是由著名作家写的。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 411,
@@ -1239,26 +844,17 @@
           "answer": "was completed",
           "explanation": "这道题考查的是Passive Voice的用法。",
           "chineseTranslation": "这部小说是由著名作家写的。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 412,
           "type": "multiple_choice",
           "question": "The story ________ (tell) by the author.",
-          "options": [
-            "was told",
-            "is told",
-            "tells",
-            "has told"
-          ],
+          "options": ["was told", "is told", "tells", "has told"],
           "answer": "was told",
           "explanation": "这道题考查的是Passive Voice的用法。",
           "chineseTranslation": "这部小说是由著名作家写的。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 413,
@@ -1273,128 +869,77 @@
           "answer": "was received",
           "explanation": "这道题考查的是Passive Voice的用法。",
           "chineseTranslation": "这部小说是由著名作家写的。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 414,
           "type": "multiple_choice",
           "question": "The mystery ________ (solve) by the detective.",
-          "options": [
-            "was solved",
-            "is solved",
-            "solves",
-            "has solved"
-          ],
+          "options": ["was solved", "is solved", "solves", "has solved"],
           "answer": "was solved",
           "explanation": "这道题考查的是Passive Voice的用法。",
           "chineseTranslation": "这部小说是由著名作家写的。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 415,
           "type": "multiple_choice",
           "question": "The letter ________ (send) yesterday.",
-          "options": [
-            "was sent",
-            "is sent",
-            "sends",
-            "has sent"
-          ],
+          "options": ["was sent", "is sent", "sends", "has sent"],
           "answer": "was sent",
           "explanation": "这道题考查的是Passive Voice的用法。",
           "chineseTranslation": "这部小说是由著名作家写的。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 416,
           "type": "multiple_choice",
           "question": "The document ________ (sign) by the gentleman.",
-          "options": [
-            "was signed",
-            "is signed",
-            "signs",
-            "has signed"
-          ],
+          "options": ["was signed", "is signed", "signs", "has signed"],
           "answer": "was signed",
           "explanation": "这道题考查的是Passive Voice的用法。",
           "chineseTranslation": "这部小说是由著名作家写的。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 417,
           "type": "multiple_choice",
           "question": "The award ________ (give) to the volunteer.",
-          "options": [
-            "was given",
-            "is given",
-            "gives",
-            "has given"
-          ],
+          "options": ["was given", "is given", "gives", "has given"],
           "answer": "was given",
           "explanation": "这道题考查的是Passive Voice的用法。",
           "chineseTranslation": "这部小说是由著名作家写的。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 418,
           "type": "multiple_choice",
           "question": "The meeting ________ (hold) last week.",
-          "options": [
-            "was held",
-            "is held",
-            "holds",
-            "has held"
-          ],
+          "options": ["was held", "is held", "holds", "has held"],
           "answer": "was held",
           "explanation": "这道题考查的是Passive Voice的用法。",
           "chineseTranslation": "这部小说是由著名作家写的。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 419,
           "type": "multiple_choice",
           "question": "The announcement ________ (make) by the organization.",
-          "options": [
-            "was made",
-            "is made",
-            "makes",
-            "has made"
-          ],
+          "options": ["was made", "is made", "makes", "has made"],
           "answer": "was made",
           "explanation": "这道题考查的是Passive Voice的用法。",
           "chineseTranslation": "这部小说是由著名作家写的。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 420,
           "type": "multiple_choice",
           "question": "The decision ________ (make) by the committee.",
-          "options": [
-            "was made",
-            "is made",
-            "makes",
-            "has made"
-          ],
+          "options": ["was made", "is made", "makes", "has made"],
           "answer": "was made",
           "explanation": "这道题考查的是Passive Voice的用法。",
           "chineseTranslation": "这部小说是由著名作家写的。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         }
       ]
     },
@@ -1408,18 +953,11 @@
           "id": 501,
           "type": "multiple_choice",
           "question": "The story was so interesting that everyone ________ (want) to read it.",
-          "options": [
-            "wanted",
-            "wants",
-            "is wanting",
-            "has wanted"
-          ],
+          "options": ["wanted", "wants", "is wanting", "has wanted"],
           "answer": "wanted",
           "explanation": "这道题考查的是Usage of 'so...that'的用法。",
           "chineseTranslation": "这个故事如此有趣以至于每个人都想读它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 502,
@@ -1434,111 +972,67 @@
           "answer": "understood",
           "explanation": "这道题考查的是Usage of 'so...that'的用法。",
           "chineseTranslation": "这个故事如此有趣以至于每个人都想读它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 503,
           "type": "multiple_choice",
           "question": "The shelter was so helpful that many people ________ (donate) money.",
-          "options": [
-            "donated",
-            "donate",
-            "are donating",
-            "have donated"
-          ],
+          "options": ["donated", "donate", "are donating", "have donated"],
           "answer": "donated",
           "explanation": "这道题考查的是Usage of 'so...that'的用法。",
           "chineseTranslation": "这个故事如此有趣以至于每个人都想读它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 504,
           "type": "multiple_choice",
           "question": "The interview was so detailed that the lady ________ (feel) satisfied.",
-          "options": [
-            "felt",
-            "feels",
-            "is feeling",
-            "has felt"
-          ],
+          "options": ["felt", "feels", "is feeling", "has felt"],
           "answer": "felt",
           "explanation": "这道题考查的是Usage of 'so...that'的用法。",
           "chineseTranslation": "这个故事如此有趣以至于每个人都想读它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 505,
           "type": "multiple_choice",
           "question": "The book was so popular that it ________ (sell) out quickly.",
-          "options": [
-            "sold",
-            "sells",
-            "is selling",
-            "has sold"
-          ],
+          "options": ["sold", "sells", "is selling", "has sold"],
           "answer": "sold",
           "explanation": "这道题考查的是Usage of 'so...that'的用法。",
           "chineseTranslation": "这个故事如此有趣以至于每个人都想读它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 506,
           "type": "multiple_choice",
           "question": "The detective was so clever that he ________ (solve) the mystery.",
-          "options": [
-            "solved",
-            "solves",
-            "is solving",
-            "has solved"
-          ],
+          "options": ["solved", "solves", "is solving", "has solved"],
           "answer": "solved",
           "explanation": "这道题考查的是Usage of 'so...that'的用法。",
           "chineseTranslation": "这个故事如此有趣以至于每个人都想读它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 507,
           "type": "multiple_choice",
           "question": "The recommendation was so good that they ________ (decide) to read it.",
-          "options": [
-            "decided",
-            "decide",
-            "are deciding",
-            "have decided"
-          ],
+          "options": ["decided", "decide", "are deciding", "have decided"],
           "answer": "decided",
           "explanation": "这道题考查的是Usage of 'so...that'的用法。",
           "chineseTranslation": "这个故事如此有趣以至于每个人都想读它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 508,
           "type": "multiple_choice",
           "question": "The organization was so successful that more people ________ (join) it.",
-          "options": [
-            "joined",
-            "join",
-            "are joining",
-            "have joined"
-          ],
+          "options": ["joined", "join", "are joining", "have joined"],
           "answer": "joined",
           "explanation": "这道题考查的是Usage of 'so...that'的用法。",
           "chineseTranslation": "这个故事如此有趣以至于每个人都想读它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 509,
@@ -1553,162 +1047,97 @@
           "answer": "appreciated",
           "explanation": "这道题考查的是Usage of 'so...that'的用法。",
           "chineseTranslation": "这个故事如此有趣以至于每个人都想读它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 510,
           "type": "multiple_choice",
           "question": "The teamwork was so strong that they ________ (achieve) their goal.",
-          "options": [
-            "achieved",
-            "achieve",
-            "are achieving",
-            "have achieved"
-          ],
+          "options": ["achieved", "achieve", "are achieving", "have achieved"],
           "answer": "achieved",
           "explanation": "这道题考查的是Usage of 'so...that'的用法。",
           "chineseTranslation": "这个故事如此有趣以至于每个人都想读它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 511,
           "type": "multiple_choice",
           "question": "The donation was so large that the shelter ________ (expand) its services.",
-          "options": [
-            "expanded",
-            "expands",
-            "is expanding",
-            "has expanded"
-          ],
+          "options": ["expanded", "expands", "is expanding", "has expanded"],
           "answer": "expanded",
           "explanation": "这道题考查的是Usage of 'so...that'的用法。",
           "chineseTranslation": "这个故事如此有趣以至于每个人都想读它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 512,
           "type": "multiple_choice",
           "question": "The interview was so impressive that the candidate ________ (get) the job.",
-          "options": [
-            "got",
-            "gets",
-            "is getting",
-            "has got"
-          ],
+          "options": ["got", "gets", "is getting", "has got"],
           "answer": "got",
           "explanation": "这道题考查的是Usage of 'so...that'的用法。",
           "chineseTranslation": "这个故事如此有趣以至于每个人都想读它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 513,
           "type": "multiple_choice",
           "question": "The adventure was so exciting that everyone ________ (want) to go again.",
-          "options": [
-            "wanted",
-            "wants",
-            "is wanting",
-            "has wanted"
-          ],
+          "options": ["wanted", "wants", "is wanting", "has wanted"],
           "answer": "wanted",
           "explanation": "这道题考查的是Usage of 'so...that'的用法。",
           "chineseTranslation": "这个故事如此有趣以至于每个人都想读它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 514,
           "type": "multiple_choice",
           "question": "The mystery was so intriguing that readers ________ (keep) guessing.",
-          "options": [
-            "kept",
-            "keep",
-            "are keeping",
-            "have kept"
-          ],
+          "options": ["kept", "keep", "are keeping", "have kept"],
           "answer": "kept",
           "explanation": "这道题考查的是Usage of 'so...that'的用法。",
           "chineseTranslation": "这个故事如此有趣以至于每个人都想读它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 515,
           "type": "multiple_choice",
           "question": "The story was so touching that many people ________ (cry).",
-          "options": [
-            "cried",
-            "cry",
-            "are crying",
-            "have cried"
-          ],
+          "options": ["cried", "cry", "are crying", "have cried"],
           "answer": "cried",
           "explanation": "这道题考查的是Usage of 'so...that'的用法。",
           "chineseTranslation": "这个故事如此有趣以至于每个人都想读它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 516,
           "type": "multiple_choice",
           "question": "The recommendation was so strong that she ________ (trust) it.",
-          "options": [
-            "trusted",
-            "trusts",
-            "is trusting",
-            "has trusted"
-          ],
+          "options": ["trusted", "trusts", "is trusting", "has trusted"],
           "answer": "trusted",
           "explanation": "这道题考查的是Usage of 'so...that'的用法。",
           "chineseTranslation": "这个故事如此有趣以至于每个人都想读它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 517,
           "type": "multiple_choice",
           "question": "The shelter was so welcoming that visitors ________ (feel) comfortable.",
-          "options": [
-            "felt",
-            "feel",
-            "are feeling",
-            "have felt"
-          ],
+          "options": ["felt", "feel", "are feeling", "have felt"],
           "answer": "felt",
           "explanation": "这道题考查的是Usage of 'so...that'的用法。",
           "chineseTranslation": "这个故事如此有趣以至于每个人都想读它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 518,
           "type": "multiple_choice",
           "question": "The organization was so dedicated that they ________ (receive) an award.",
-          "options": [
-            "received",
-            "receive",
-            "are receiving",
-            "have received"
-          ],
+          "options": ["received", "receive", "are receiving", "have received"],
           "answer": "received",
           "explanation": "这道题考查的是Usage of 'so...that'的用法。",
           "chineseTranslation": "这个故事如此有趣以至于每个人都想读它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 519,
@@ -1723,9 +1152,7 @@
           "answer": "recognized",
           "explanation": "这道题考查的是Usage of 'so...that'的用法。",
           "chineseTranslation": "这个故事如此有趣以至于每个人都想读它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 520,
@@ -1740,9 +1167,7 @@
           "answer": "completed",
           "explanation": "这道题考查的是Usage of 'so...that'的用法。",
           "chineseTranslation": "这个故事如此有趣以至于每个人都想读它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         }
       ]
     },
@@ -1756,18 +1181,11 @@
           "id": 601,
           "type": "multiple_choice",
           "question": "When she ________ (hear) of the adventure, she was excited.",
-          "options": [
-            "heard",
-            "hears",
-            "was hearing",
-            "has heard"
-          ],
+          "options": ["heard", "hears", "was hearing", "has heard"],
           "answer": "heard",
           "explanation": "这道题考查的是Usage of 'when' and 'while'的用法。",
           "chineseTranslation": "当她听说这次冒险时，她很兴奋。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 602,
@@ -1782,128 +1200,77 @@
           "answer": "was investigating",
           "explanation": "这道题考查的是Usage of 'when' and 'while'的用法。",
           "chineseTranslation": "当她听说这次冒险时，她很兴奋。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 603,
           "type": "multiple_choice",
           "question": "When they ________ (arrive) at the shelter, it was raining.",
-          "options": [
-            "arrived",
-            "arrive",
-            "were arriving",
-            "have arrived"
-          ],
+          "options": ["arrived", "arrive", "were arriving", "have arrived"],
           "answer": "arrived",
           "explanation": "这道题考查的是Usage of 'when' and 'while'的用法。",
           "chineseTranslation": "当她听说这次冒险时，她很兴奋。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 604,
           "type": "multiple_choice",
           "question": "While she ________ (read) the book, she fell asleep.",
-          "options": [
-            "was reading",
-            "reads",
-            "has read",
-            "read"
-          ],
+          "options": ["was reading", "reads", "has read", "read"],
           "answer": "was reading",
           "explanation": "这道题考查的是Usage of 'when' and 'while'的用法。",
           "chineseTranslation": "当她听说这次冒险时，她很兴奋。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 605,
           "type": "multiple_choice",
           "question": "When the interviewer ________ (ask) the question, everyone listened.",
-          "options": [
-            "asked",
-            "asks",
-            "was asking",
-            "has asked"
-          ],
+          "options": ["asked", "asks", "was asking", "has asked"],
           "answer": "asked",
           "explanation": "这道题考查的是Usage of 'when' and 'while'的用法。",
           "chineseTranslation": "当她听说这次冒险时，她很兴奋。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 606,
           "type": "multiple_choice",
           "question": "While the volunteers ________ (work) at the shelter, they helped many people.",
-          "options": [
-            "were working",
-            "work",
-            "have worked",
-            "worked"
-          ],
+          "options": ["were working", "work", "have worked", "worked"],
           "answer": "were working",
           "explanation": "这道题考查的是Usage of 'when' and 'while'的用法。",
           "chineseTranslation": "当她听说这次冒险时，她很兴奋。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 607,
           "type": "multiple_choice",
           "question": "When the detective ________ (find) the evidence, he was surprised.",
-          "options": [
-            "found",
-            "finds",
-            "was finding",
-            "has found"
-          ],
+          "options": ["found", "finds", "was finding", "has found"],
           "answer": "found",
           "explanation": "这道题考查的是Usage of 'when' and 'while'的用法。",
           "chineseTranslation": "当她听说这次冒险时，她很兴奋。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 608,
           "type": "multiple_choice",
           "question": "While the organization ________ (provide) donations, they helped the elderly.",
-          "options": [
-            "was providing",
-            "provides",
-            "has provided",
-            "provided"
-          ],
+          "options": ["was providing", "provides", "has provided", "provided"],
           "answer": "was providing",
           "explanation": "这道题考查的是Usage of 'when' and 'while'的用法。",
           "chineseTranslation": "当她听说这次冒险时，她很兴奋。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 609,
           "type": "multiple_choice",
           "question": "When she ________ (see) the naughty boy, she scolded him.",
-          "options": [
-            "saw",
-            "sees",
-            "was seeing",
-            "has seen"
-          ],
+          "options": ["saw", "sees", "was seeing", "has seen"],
           "answer": "saw",
           "explanation": "这道题考查的是Usage of 'when' and 'while'的用法。",
           "chineseTranslation": "当她听说这次冒险时，她很兴奋。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 610,
@@ -1918,60 +1285,37 @@
           "answer": "were discussing",
           "explanation": "这道题考查的是Usage of 'when' and 'while'的用法。",
           "chineseTranslation": "当她听说这次冒险时，她很兴奋。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 611,
           "type": "multiple_choice",
           "question": "When the gentleman ________ (enter) the room, everyone stood up.",
-          "options": [
-            "entered",
-            "enters",
-            "was entering",
-            "has entered"
-          ],
+          "options": ["entered", "enters", "was entering", "has entered"],
           "answer": "entered",
           "explanation": "这道题考查的是Usage of 'when' and 'while'的用法。",
           "chineseTranslation": "当她听说这次冒险时，她很兴奋。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 612,
           "type": "multiple_choice",
           "question": "While the lady ________ (shop) at the market, she met an old friend.",
-          "options": [
-            "was shopping",
-            "shops",
-            "has shopped",
-            "shopped"
-          ],
+          "options": ["was shopping", "shops", "has shopped", "shopped"],
           "answer": "was shopping",
           "explanation": "这道题考查的是Usage of 'when' and 'while'的用法。",
           "chineseTranslation": "当她听说这次冒险时，她很兴奋。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 613,
           "type": "multiple_choice",
           "question": "When the army ________ (attack) the base, soldiers fought bravely.",
-          "options": [
-            "attacked",
-            "attacks",
-            "was attacking",
-            "has attacked"
-          ],
+          "options": ["attacked", "attacks", "was attacking", "has attacked"],
           "answer": "attacked",
           "explanation": "这道题考查的是Usage of 'when' and 'while'的用法。",
           "chineseTranslation": "当她听说这次冒险时，她很兴奋。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 614,
@@ -1986,26 +1330,17 @@
           "answer": "was organizing",
           "explanation": "这道题考查的是Usage of 'when' and 'while'的用法。",
           "chineseTranslation": "当她听说这次冒险时，她很兴奋。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 615,
           "type": "multiple_choice",
           "question": "When the youth ________ (join) the organization, they felt proud.",
-          "options": [
-            "joined",
-            "join",
-            "were joining",
-            "have joined"
-          ],
+          "options": ["joined", "join", "were joining", "have joined"],
           "answer": "joined",
           "explanation": "这道题考查的是Usage of 'when' and 'while'的用法。",
           "chineseTranslation": "当她听说这次冒险时，她很兴奋。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 616,
@@ -2020,77 +1355,47 @@
           "answer": "was conducting",
           "explanation": "这道题考查的是Usage of 'when' and 'while'的用法。",
           "chineseTranslation": "当她听说这次冒险时，她很兴奋。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 617,
           "type": "multiple_choice",
           "question": "When she ________ (unlock) the cage, the animal ran away.",
-          "options": [
-            "unlocked",
-            "unlocks",
-            "was unlocking",
-            "has unlocked"
-          ],
+          "options": ["unlocked", "unlocks", "was unlocking", "has unlocked"],
           "answer": "unlocked",
           "explanation": "这道题考查的是Usage of 'when' and 'while'的用法。",
           "chineseTranslation": "当她听说这次冒险时，她很兴奋。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 618,
           "type": "multiple_choice",
           "question": "While they ________ (donate) money, more people came to help.",
-          "options": [
-            "were donating",
-            "donate",
-            "have donated",
-            "donated"
-          ],
+          "options": ["were donating", "donate", "have donated", "donated"],
           "answer": "were donating",
           "explanation": "这道题考查的是Usage of 'when' and 'while'的用法。",
           "chineseTranslation": "当她听说这次冒险时，她很兴奋。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 619,
           "type": "multiple_choice",
           "question": "When the detective ________ (solve) the mystery, everyone cheered.",
-          "options": [
-            "solved",
-            "solves",
-            "was solving",
-            "has solved"
-          ],
+          "options": ["solved", "solves", "was solving", "has solved"],
           "answer": "solved",
           "explanation": "这道题考查的是Usage of 'when' and 'while'的用法。",
           "chineseTranslation": "当她听说这次冒险时，她很兴奋。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 620,
           "type": "multiple_choice",
           "question": "While the story ________ (unfold), readers were on the edge of their seats.",
-          "options": [
-            "was unfolding",
-            "unfolds",
-            "has unfolded",
-            "unfolded"
-          ],
+          "options": ["was unfolding", "unfolds", "has unfolded", "unfolded"],
           "answer": "was unfolding",
           "explanation": "这道题考查的是Usage of 'when' and 'while'的用法。",
           "chineseTranslation": "当她听说这次冒险时，她很兴奋。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         }
       ]
     },
@@ -2104,341 +1409,201 @@
           "id": 701,
           "type": "multiple_choice",
           "question": "As soon as she ________ (hear) of the mystery, she wanted to solve it.",
-          "options": [
-            "heard",
-            "hears",
-            "was hearing",
-            "has heard"
-          ],
+          "options": ["heard", "hears", "was hearing", "has heard"],
           "answer": "heard",
           "explanation": "这道题考查的是Usage of 'as soon as'的用法。",
           "chineseTranslation": "一她听说这个谜团，她就想解决它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 702,
           "type": "multiple_choice",
           "question": "As soon as the detective ________ (find) the clue, he called the police.",
-          "options": [
-            "found",
-            "finds",
-            "was finding",
-            "has found"
-          ],
+          "options": ["found", "finds", "was finding", "has found"],
           "answer": "found",
           "explanation": "这道题考查的是Usage of 'as soon as'的用法。",
           "chineseTranslation": "一她听说这个谜团，她就想解决它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 703,
           "type": "multiple_choice",
           "question": "As soon as they ________ (arrive) at the shelter, they started working.",
-          "options": [
-            "arrived",
-            "arrive",
-            "were arriving",
-            "have arrived"
-          ],
+          "options": ["arrived", "arrive", "were arriving", "have arrived"],
           "answer": "arrived",
           "explanation": "这道题考查的是Usage of 'as soon as'的用法。",
           "chineseTranslation": "一她听说这个谜团，她就想解决它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 704,
           "type": "multiple_choice",
           "question": "As soon as the interviewer ________ (finish) the interview, he left.",
-          "options": [
-            "finished",
-            "finishes",
-            "was finishing",
-            "has finished"
-          ],
+          "options": ["finished", "finishes", "was finishing", "has finished"],
           "answer": "finished",
           "explanation": "这道题考查的是Usage of 'as soon as'的用法。",
           "chineseTranslation": "一她听说这个谜团，她就想解决它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 705,
           "type": "multiple_choice",
           "question": "As soon as the volunteers ________ (see) the elderly, they helped them.",
-          "options": [
-            "saw",
-            "see",
-            "were seeing",
-            "have seen"
-          ],
+          "options": ["saw", "see", "were seeing", "have seen"],
           "answer": "saw",
           "explanation": "这道题考查的是Usage of 'as soon as'的用法。",
           "chineseTranslation": "一她听说这个谜团，她就想解决它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 706,
           "type": "multiple_choice",
           "question": "As soon as the organization ________ (receive) the donation, they thanked the donor.",
-          "options": [
-            "received",
-            "receives",
-            "was receiving",
-            "has received"
-          ],
+          "options": ["received", "receives", "was receiving", "has received"],
           "answer": "received",
           "explanation": "这道题考查的是Usage of 'as soon as'的用法。",
           "chineseTranslation": "一她听说这个谜团，她就想解决它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 707,
           "type": "multiple_choice",
           "question": "As soon as the book ________ (arrive), she started reading it.",
-          "options": [
-            "arrived",
-            "arrives",
-            "was arriving",
-            "has arrived"
-          ],
+          "options": ["arrived", "arrives", "was arriving", "has arrived"],
           "answer": "arrived",
           "explanation": "这道题考查的是Usage of 'as soon as'的用法。",
           "chineseTranslation": "一她听说这个谜团，她就想解决它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 708,
           "type": "multiple_choice",
           "question": "As soon as the naughty boy ________ (see) the teacher, he ran away.",
-          "options": [
-            "saw",
-            "sees",
-            "was seeing",
-            "has seen"
-          ],
+          "options": ["saw", "sees", "was seeing", "has seen"],
           "answer": "saw",
           "explanation": "这道题考查的是Usage of 'as soon as'的用法。",
           "chineseTranslation": "一她听说这个谜团，她就想解决它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 709,
           "type": "multiple_choice",
           "question": "As soon as the army ________ (attack) the base, the soldiers fought back.",
-          "options": [
-            "attacked",
-            "attacks",
-            "was attacking",
-            "has attacked"
-          ],
+          "options": ["attacked", "attacks", "was attacking", "has attacked"],
           "answer": "attacked",
           "explanation": "这道题考查的是Usage of 'as soon as'的用法。",
           "chineseTranslation": "一她听说这个谜团，她就想解决它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 710,
           "type": "multiple_choice",
           "question": "As soon as the librarian ________ (open) the library, readers came in.",
-          "options": [
-            "opened",
-            "opens",
-            "was opening",
-            "has opened"
-          ],
+          "options": ["opened", "opens", "was opening", "has opened"],
           "answer": "opened",
           "explanation": "这道题考查的是Usage of 'as soon as'的用法。",
           "chineseTranslation": "一她听说这个谜团，她就想解决它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 711,
           "type": "multiple_choice",
           "question": "As soon as the interviewer ________ (ask) the question, the candidate answered.",
-          "options": [
-            "asked",
-            "asks",
-            "was asking",
-            "has asked"
-          ],
+          "options": ["asked", "asks", "was asking", "has asked"],
           "answer": "asked",
           "explanation": "这道题考查的是Usage of 'as soon as'的用法。",
           "chineseTranslation": "一她听说这个谜团，她就想解决它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 712,
           "type": "multiple_choice",
           "question": "As soon as the mystery ________ (reveal), everyone was shocked.",
-          "options": [
-            "was revealed",
-            "is revealed",
-            "reveals",
-            "has revealed"
-          ],
+          "options": ["was revealed", "is revealed", "reveals", "has revealed"],
           "answer": "was revealed",
           "explanation": "这道题考查的是Usage of 'as soon as'的用法。",
           "chineseTranslation": "一她听说这个谜团，她就想解决它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 713,
           "type": "multiple_choice",
           "question": "As soon as the gentleman ________ (enter) the room, he greeted everyone.",
-          "options": [
-            "entered",
-            "enters",
-            "was entering",
-            "has entered"
-          ],
+          "options": ["entered", "enters", "was entering", "has entered"],
           "answer": "entered",
           "explanation": "这道题考查的是Usage of 'as soon as'的用法。",
           "chineseTranslation": "一她听说这个谜团，她就想解决它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 714,
           "type": "multiple_choice",
           "question": "As soon as the lady ________ (hear) the news, she called her friend.",
-          "options": [
-            "heard",
-            "hears",
-            "was hearing",
-            "has heard"
-          ],
+          "options": ["heard", "hears", "was hearing", "has heard"],
           "answer": "heard",
           "explanation": "这道题考查的是Usage of 'as soon as'的用法。",
           "chineseTranslation": "一她听说这个谜团，她就想解决它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 715,
           "type": "multiple_choice",
           "question": "As soon as the youth ________ (join) the team, they felt welcomed.",
-          "options": [
-            "joined",
-            "join",
-            "were joining",
-            "have joined"
-          ],
+          "options": ["joined", "join", "were joining", "have joined"],
           "answer": "joined",
           "explanation": "这道题考查的是Usage of 'as soon as'的用法。",
           "chineseTranslation": "一她听说这个谜团，她就想解决它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 716,
           "type": "multiple_choice",
           "question": "As soon as the donation ________ (arrive), the organization thanked the donor.",
-          "options": [
-            "arrived",
-            "arrives",
-            "was arriving",
-            "has arrived"
-          ],
+          "options": ["arrived", "arrives", "was arriving", "has arrived"],
           "answer": "arrived",
           "explanation": "这道题考查的是Usage of 'as soon as'的用法。",
           "chineseTranslation": "一她听说这个谜团，她就想解决它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 717,
           "type": "multiple_choice",
           "question": "As soon as the detective ________ (solve) the case, he reported it.",
-          "options": [
-            "solved",
-            "solves",
-            "was solving",
-            "has solved"
-          ],
+          "options": ["solved", "solves", "was solving", "has solved"],
           "answer": "solved",
           "explanation": "这道题考查的是Usage of 'as soon as'的用法。",
           "chineseTranslation": "一她听说这个谜团，她就想解决它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 718,
           "type": "multiple_choice",
           "question": "As soon as the story ________ (end), readers wanted more.",
-          "options": [
-            "ended",
-            "ends",
-            "was ending",
-            "has ended"
-          ],
+          "options": ["ended", "ends", "was ending", "has ended"],
           "answer": "ended",
           "explanation": "这道题考查的是Usage of 'as soon as'的用法。",
           "chineseTranslation": "一她听说这个谜团，她就想解决它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 719,
           "type": "multiple_choice",
           "question": "As soon as the shelter ________ (open), people came to help.",
-          "options": [
-            "opened",
-            "opens",
-            "was opening",
-            "has opened"
-          ],
+          "options": ["opened", "opens", "was opening", "has opened"],
           "answer": "opened",
           "explanation": "这道题考查的是Usage of 'as soon as'的用法。",
           "chineseTranslation": "一她听说这个谜团，她就想解决它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 720,
           "type": "multiple_choice",
           "question": "As soon as the interviewer ________ (turn) off the recorder, the interview was over.",
-          "options": [
-            "turned",
-            "turns",
-            "was turning",
-            "has turned"
-          ],
+          "options": ["turned", "turns", "was turning", "has turned"],
           "answer": "turned",
           "explanation": "这道题考查的是Usage of 'as soon as'的用法。",
           "chineseTranslation": "一她听说这个谜团，她就想解决它。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         }
       ]
     },
@@ -2452,154 +1617,91 @@
           "id": 801,
           "type": "multiple_choice",
           "question": "Unless you ________ (read) the book, you won't understand the mystery.",
-          "options": [
-            "read",
-            "reads",
-            "are reading",
-            "have read"
-          ],
+          "options": ["read", "reads", "are reading", "have read"],
           "answer": "read",
           "explanation": "这道题考查的是Usage of 'unless'的用法。",
           "chineseTranslation": "除非你读这本书，否则你不会理解这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 802,
           "type": "multiple_choice",
           "question": "Unless the detective ________ (find) the evidence, the case will remain unsolved.",
-          "options": [
-            "finds",
-            "find",
-            "is finding",
-            "has found"
-          ],
+          "options": ["finds", "find", "is finding", "has found"],
           "answer": "finds",
           "explanation": "这道题考查的是Usage of 'unless'的用法。",
           "chineseTranslation": "除非你读这本书，否则你不会理解这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 803,
           "type": "multiple_choice",
           "question": "Unless they ________ (help) the elderly, the shelter will close.",
-          "options": [
-            "help",
-            "helps",
-            "are helping",
-            "have helped"
-          ],
+          "options": ["help", "helps", "are helping", "have helped"],
           "answer": "help",
           "explanation": "这道题考查的是Usage of 'unless'的用法。",
           "chineseTranslation": "除非你读这本书，否则你不会理解这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 804,
           "type": "multiple_choice",
           "question": "Unless the organization ________ (receive) donations, it cannot continue.",
-          "options": [
-            "receives",
-            "receive",
-            "is receiving",
-            "has received"
-          ],
+          "options": ["receives", "receive", "is receiving", "has received"],
           "answer": "receives",
           "explanation": "这道题考查的是Usage of 'unless'的用法。",
           "chineseTranslation": "除非你读这本书，否则你不会理解这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 805,
           "type": "multiple_choice",
           "question": "Unless she ________ (study) hard, she won't pass the exam.",
-          "options": [
-            "studies",
-            "study",
-            "is studying",
-            "has studied"
-          ],
+          "options": ["studies", "study", "is studying", "has studied"],
           "answer": "studies",
           "explanation": "这道题考查的是Usage of 'unless'的用法。",
           "chineseTranslation": "除非你读这本书，否则你不会理解这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 806,
           "type": "multiple_choice",
           "question": "Unless the volunteers ________ (come), the event will be cancelled.",
-          "options": [
-            "come",
-            "comes",
-            "are coming",
-            "have come"
-          ],
+          "options": ["come", "comes", "are coming", "have come"],
           "answer": "come",
           "explanation": "这道题考查的是Usage of 'unless'的用法。",
           "chineseTranslation": "除非你读这本书，否则你不会理解这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 807,
           "type": "multiple_choice",
           "question": "Unless the interviewer ________ (ask) good questions, the interview will be boring.",
-          "options": [
-            "asks",
-            "ask",
-            "is asking",
-            "has asked"
-          ],
+          "options": ["asks", "ask", "is asking", "has asked"],
           "answer": "asks",
           "explanation": "这道题考查的是Usage of 'unless'的用法。",
           "chineseTranslation": "除非你读这本书，否则你不会理解这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 808,
           "type": "multiple_choice",
           "question": "Unless the naughty boy ________ (behave), he will be punished.",
-          "options": [
-            "behaves",
-            "behave",
-            "is behaving",
-            "has behaved"
-          ],
+          "options": ["behaves", "behave", "is behaving", "has behaved"],
           "answer": "behaves",
           "explanation": "这道题考查的是Usage of 'unless'的用法。",
           "chineseTranslation": "除非你读这本书，否则你不会理解这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 809,
           "type": "multiple_choice",
           "question": "Unless the army ________ (defend) the base, it will be captured.",
-          "options": [
-            "defends",
-            "defend",
-            "is defending",
-            "has defended"
-          ],
+          "options": ["defends", "defend", "is defending", "has defended"],
           "answer": "defends",
           "explanation": "这道题考查的是Usage of 'unless'的用法。",
           "chineseTranslation": "除非你读这本书，否则你不会理解这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 810,
@@ -2614,43 +1716,27 @@
           "answer": "recommends",
           "explanation": "这道题考查的是Usage of 'unless'的用法。",
           "chineseTranslation": "除非你读这本书，否则你不会理解这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 811,
           "type": "multiple_choice",
           "question": "Unless the gentleman ________ (help) others, he won't be respected.",
-          "options": [
-            "helps",
-            "help",
-            "is helping",
-            "has helped"
-          ],
+          "options": ["helps", "help", "is helping", "has helped"],
           "answer": "helps",
           "explanation": "这道题考查的是Usage of 'unless'的用法。",
           "chineseTranslation": "除非你读这本书，否则你不会理解这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 812,
           "type": "multiple_choice",
           "question": "Unless the lady ________ (donate) money, the charity won't succeed.",
-          "options": [
-            "donates",
-            "donate",
-            "is donating",
-            "has donated"
-          ],
+          "options": ["donates", "donate", "is donating", "has donated"],
           "answer": "donates",
           "explanation": "这道题考查的是Usage of 'unless'的用法。",
           "chineseTranslation": "除非你读这本书，否则你不会理解这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 813,
@@ -2665,128 +1751,77 @@
           "answer": "participate",
           "explanation": "这道题考查的是Usage of 'unless'的用法。",
           "chineseTranslation": "除非你读这本书，否则你不会理解这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 814,
           "type": "multiple_choice",
           "question": "Unless the detective ________ (solve) the mystery, people will keep guessing.",
-          "options": [
-            "solves",
-            "solve",
-            "is solving",
-            "has solved"
-          ],
+          "options": ["solves", "solve", "is solving", "has solved"],
           "answer": "solves",
           "explanation": "这道题考查的是Usage of 'unless'的用法。",
           "chineseTranslation": "除非你读这本书，否则你不会理解这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 815,
           "type": "multiple_choice",
           "question": "Unless the story ________ (have) a good ending, readers will be sad.",
-          "options": [
-            "has",
-            "have",
-            "is having",
-            "has had"
-          ],
+          "options": ["has", "have", "is having", "has had"],
           "answer": "has",
           "explanation": "这道题考查的是Usage of 'unless'的用法。",
           "chineseTranslation": "除非你读这本书，否则你不会理解这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 816,
           "type": "multiple_choice",
           "question": "Unless the shelter ________ (provide) good care, animals will suffer.",
-          "options": [
-            "provides",
-            "provide",
-            "is providing",
-            "has provided"
-          ],
+          "options": ["provides", "provide", "is providing", "has provided"],
           "answer": "provides",
           "explanation": "这道题考查的是Usage of 'unless'的用法。",
           "chineseTranslation": "除非你读这本书，否则你不会理解这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 817,
           "type": "multiple_choice",
           "question": "Unless the interviewer ________ (record) the conversation, people will forget.",
-          "options": [
-            "records",
-            "record",
-            "is recording",
-            "has recorded"
-          ],
+          "options": ["records", "record", "is recording", "has recorded"],
           "answer": "records",
           "explanation": "这道题考查的是Usage of 'unless'的用法。",
           "chineseTranslation": "除非你读这本书，否则你不会理解这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 818,
           "type": "multiple_choice",
           "question": "Unless the organization ________ (make) a difference, the community won't change.",
-          "options": [
-            "makes",
-            "make",
-            "is making",
-            "has made"
-          ],
+          "options": ["makes", "make", "is making", "has made"],
           "answer": "makes",
           "explanation": "这道题考查的是Usage of 'unless'的用法。",
           "chineseTranslation": "除非你读这本书，否则你不会理解这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 819,
           "type": "multiple_choice",
           "question": "Unless the adventure ________ (be) exciting, nobody will join.",
-          "options": [
-            "is",
-            "are",
-            "being",
-            "has been"
-          ],
+          "options": ["is", "are", "being", "has been"],
           "answer": "is",
           "explanation": "这道题考查的是Usage of 'unless'的用法。",
           "chineseTranslation": "除非你读这本书，否则你不会理解这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 820,
           "type": "multiple_choice",
           "question": "Unless the teamwork ________ (be) strong, the project will fail.",
-          "options": [
-            "is",
-            "are",
-            "being",
-            "has been"
-          ],
+          "options": ["is", "are", "being", "has been"],
           "answer": "is",
           "explanation": "这道题考查的是Usage of 'unless'的用法。",
           "chineseTranslation": "除非你读这本书，否则你不会理解这个谜团。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         }
       ]
     },
@@ -2800,341 +1835,201 @@
           "id": 901,
           "type": "multiple_choice",
           "question": "The mystery novel ________ (write) by a famous author is very popular.",
-          "options": [
-            "written",
-            "writing",
-            "writes",
-            "wrote"
-          ],
+          "options": ["written", "writing", "writes", "wrote"],
           "answer": "written",
           "explanation": "这道题考查的是Past Participle as Post-modifier的用法。",
           "chineseTranslation": "由著名作家写的悬疑小说很受欢迎。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 902,
           "type": "multiple_choice",
           "question": "The shelter ________ (build) by the organization in 2015 helps many people.",
-          "options": [
-            "built",
-            "building",
-            "builds",
-            "builds"
-          ],
+          "options": ["built", "building", "builds", "builds"],
           "answer": "built",
           "explanation": "这道题考查的是Past Participle as Post-modifier的用法。",
           "chineseTranslation": "由著名作家写的悬疑小说很受欢迎。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 903,
           "type": "multiple_choice",
           "question": "The donations ________ (collect) by volunteers are used wisely.",
-          "options": [
-            "collected",
-            "collecting",
-            "collects",
-            "collect"
-          ],
+          "options": ["collected", "collecting", "collects", "collect"],
           "answer": "collected",
           "explanation": "这道题考查的是Past Participle as Post-modifier的用法。",
           "chineseTranslation": "由著名作家写的悬疑小说很受欢迎。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 904,
           "type": "multiple_choice",
           "question": "The evidence ________ (find) by the detective solved the case.",
-          "options": [
-            "found",
-            "finding",
-            "finds",
-            "found"
-          ],
+          "options": ["found", "finding", "finds", "found"],
           "answer": "found",
           "explanation": "这道题考查的是Past Participle as Post-modifier的用法。",
           "chineseTranslation": "由著名作家写的悬疑小说很受欢迎。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 905,
           "type": "multiple_choice",
           "question": "The boy ________ (punish) by his teacher apologized later.",
-          "options": [
-            "punished",
-            "punishing",
-            "punishes",
-            "punish"
-          ],
+          "options": ["punished", "punishing", "punishes", "punish"],
           "answer": "punished",
           "explanation": "这道题考查的是Past Participle as Post-modifier的用法。",
           "chineseTranslation": "由著名作家写的悬疑小说很受欢迎。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 906,
           "type": "multiple_choice",
           "question": "The book ________ (recommend) by the librarian became a bestseller.",
-          "options": [
-            "recommended",
-            "recommending",
-            "recommends",
-            "recommend"
-          ],
+          "options": ["recommended", "recommending", "recommends", "recommend"],
           "answer": "recommended",
           "explanation": "这道题考查的是Past Participle as Post-modifier的用法。",
           "chineseTranslation": "由著名作家写的悬疑小说很受欢迎。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 907,
           "type": "multiple_choice",
           "question": "The cage ________ (unlock) by the volunteer released the animal.",
-          "options": [
-            "unlocked",
-            "unlocking",
-            "unlocks",
-            "unlock"
-          ],
+          "options": ["unlocked", "unlocking", "unlocks", "unlock"],
           "answer": "unlocked",
           "explanation": "这道题考查的是Past Participle as Post-modifier的用法。",
           "chineseTranslation": "由著名作家写的悬疑小说很受欢迎。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 908,
           "type": "multiple_choice",
           "question": "The interview ________ (record) by the interviewer was very informative.",
-          "options": [
-            "recorded",
-            "recording",
-            "records",
-            "record"
-          ],
+          "options": ["recorded", "recording", "records", "record"],
           "answer": "recorded",
           "explanation": "这道题考查的是Past Participle as Post-modifier的用法。",
           "chineseTranslation": "由著名作家写的悬疑小说很受欢迎。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 909,
           "type": "multiple_choice",
           "question": "The enemy ________ (defeat) by the army surrendered.",
-          "options": [
-            "defeated",
-            "defeating",
-            "defeats",
-            "defeat"
-          ],
+          "options": ["defeated", "defeating", "defeats", "defeat"],
           "answer": "defeated",
           "explanation": "这道题考查的是Past Participle as Post-modifier的用法。",
           "chineseTranslation": "由著名作家写的悬疑小说很受欢迎。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 910,
           "type": "multiple_choice",
           "question": "The base ________ (destroy) in 2020 was never rebuilt.",
-          "options": [
-            "destroyed",
-            "destroying",
-            "destroys",
-            "destroy"
-          ],
+          "options": ["destroyed", "destroying", "destroys", "destroy"],
           "answer": "destroyed",
           "explanation": "这道题考查的是Past Participle as Post-modifier的用法。",
           "chineseTranslation": "由著名作家写的悬疑小说很受欢迎。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 911,
           "type": "multiple_choice",
           "question": "The project ________ (complete) by the team was successful.",
-          "options": [
-            "completed",
-            "completing",
-            "completes",
-            "complete"
-          ],
+          "options": ["completed", "completing", "completes", "complete"],
           "answer": "completed",
           "explanation": "这道题考查的是Past Participle as Post-modifier的用法。",
           "chineseTranslation": "由著名作家写的悬疑小说很受欢迎。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 912,
           "type": "multiple_choice",
           "question": "The story ________ (tell) by the author touched many hearts.",
-          "options": [
-            "told",
-            "telling",
-            "tells",
-            "tell"
-          ],
+          "options": ["told", "telling", "tells", "tell"],
           "answer": "told",
           "explanation": "这道题考查的是Past Participle as Post-modifier的用法。",
           "chineseTranslation": "由著名作家写的悬疑小说很受欢迎。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 913,
           "type": "multiple_choice",
           "question": "The donation ________ (receive) by the organization helped the poor.",
-          "options": [
-            "received",
-            "receiving",
-            "receives",
-            "receive"
-          ],
+          "options": ["received", "receiving", "receives", "receive"],
           "answer": "received",
           "explanation": "这道题考查的是Past Participle as Post-modifier的用法。",
           "chineseTranslation": "由著名作家写的悬疑小说很受欢迎。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 914,
           "type": "multiple_choice",
           "question": "The mystery ________ (solve) by the detective was very complex.",
-          "options": [
-            "solved",
-            "solving",
-            "solves",
-            "solve"
-          ],
+          "options": ["solved", "solving", "solves", "solve"],
           "answer": "solved",
           "explanation": "这道题考查的是Past Participle as Post-modifier的用法。",
           "chineseTranslation": "由著名作家写的悬疑小说很受欢迎。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 915,
           "type": "multiple_choice",
           "question": "The letter ________ (send) yesterday arrived today.",
-          "options": [
-            "sent",
-            "sending",
-            "sends",
-            "send"
-          ],
+          "options": ["sent", "sending", "sends", "send"],
           "answer": "sent",
           "explanation": "这道题考查的是Past Participle as Post-modifier的用法。",
           "chineseTranslation": "由著名作家写的悬疑小说很受欢迎。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 916,
           "type": "multiple_choice",
           "question": "The document ________ (sign) by the gentleman was official.",
-          "options": [
-            "signed",
-            "signing",
-            "signs",
-            "sign"
-          ],
+          "options": ["signed", "signing", "signs", "sign"],
           "answer": "signed",
           "explanation": "这道题考查的是Past Participle as Post-modifier的用法。",
           "chineseTranslation": "由著名作家写的悬疑小说很受欢迎。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 917,
           "type": "multiple_choice",
           "question": "The award ________ (give) to the volunteer was well-deserved.",
-          "options": [
-            "given",
-            "giving",
-            "gives",
-            "give"
-          ],
+          "options": ["given", "giving", "gives", "give"],
           "answer": "given",
           "explanation": "这道题考查的是Past Participle as Post-modifier的用法。",
           "chineseTranslation": "由著名作家写的悬疑小说很受欢迎。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 918,
           "type": "multiple_choice",
           "question": "The meeting ________ (hold) last week was very productive.",
-          "options": [
-            "held",
-            "holding",
-            "holds",
-            "hold"
-          ],
+          "options": ["held", "holding", "holds", "hold"],
           "answer": "held",
           "explanation": "这道题考查的是Past Participle as Post-modifier的用法。",
           "chineseTranslation": "由著名作家写的悬疑小说很受欢迎。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 919,
           "type": "multiple_choice",
           "question": "The announcement ________ (make) by the organization was important.",
-          "options": [
-            "made",
-            "making",
-            "makes",
-            "make"
-          ],
+          "options": ["made", "making", "makes", "make"],
           "answer": "made",
           "explanation": "这道题考查的是Past Participle as Post-modifier的用法。",
           "chineseTranslation": "由著名作家写的悬疑小说很受欢迎。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 920,
           "type": "multiple_choice",
           "question": "The decision ________ (make) by the committee was final.",
-          "options": [
-            "made",
-            "making",
-            "makes",
-            "make"
-          ],
+          "options": ["made", "making", "makes", "make"],
           "answer": "made",
           "explanation": "这道题考查的是Past Participle as Post-modifier的用法。",
           "chineseTranslation": "由著名作家写的悬疑小说很受欢迎。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         }
       ]
     },
@@ -3148,341 +2043,201 @@
           "id": 1001,
           "type": "multiple_choice",
           "question": "This is my book. Where is ________?",
-          "options": [
-            "yours",
-            "your",
-            "you",
-            "yourself"
-          ],
+          "options": ["yours", "your", "you", "yourself"],
           "answer": "yours",
           "explanation": "这道题考查的是Possessive Pronouns的用法。",
           "chineseTranslation": "这是我的书。你的在哪里？",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1002,
           "type": "multiple_choice",
           "question": "His pen is blue. ________ is red.",
-          "options": [
-            "Mine",
-            "My",
-            "Me",
-            "Myself"
-          ],
+          "options": ["Mine", "My", "Me", "Myself"],
           "answer": "Mine",
           "explanation": "这道题考查的是Possessive Pronouns的用法。",
           "chineseTranslation": "这是我的书。你的在哪里？",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1003,
           "type": "multiple_choice",
           "question": "Their house is big. ________ is small.",
-          "options": [
-            "Ours",
-            "Our",
-            "Us",
-            "Ourselves"
-          ],
+          "options": ["Ours", "Our", "Us", "Ourselves"],
           "answer": "Ours",
           "explanation": "这道题考查的是Possessive Pronouns的用法。",
           "chineseTranslation": "这是我的书。你的在哪里？",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1004,
           "type": "multiple_choice",
           "question": "Her book is interesting. ________ is boring.",
-          "options": [
-            "His",
-            "Him",
-            "He",
-            "Himself"
-          ],
+          "options": ["His", "Him", "He", "Himself"],
           "answer": "His",
           "explanation": "这道题考查的是Possessive Pronouns的用法。",
           "chineseTranslation": "这是我的书。你的在哪里？",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1005,
           "type": "multiple_choice",
           "question": "My idea is good. ________ is better.",
-          "options": [
-            "Yours",
-            "Your",
-            "You",
-            "Yourself"
-          ],
+          "options": ["Yours", "Your", "You", "Yourself"],
           "answer": "Yours",
           "explanation": "这道题考查的是Possessive Pronouns的用法。",
           "chineseTranslation": "这是我的书。你的在哪里？",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1006,
           "type": "multiple_choice",
           "question": "The dog is ________. It belongs to me.",
-          "options": [
-            "mine",
-            "my",
-            "me",
-            "myself"
-          ],
+          "options": ["mine", "my", "me", "myself"],
           "answer": "mine",
           "explanation": "这道题考查的是Possessive Pronouns的用法。",
           "chineseTranslation": "这是我的书。你的在哪里？",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1007,
           "type": "multiple_choice",
           "question": "The cat is ________. It belongs to her.",
-          "options": [
-            "hers",
-            "her",
-            "she",
-            "herself"
-          ],
+          "options": ["hers", "her", "she", "herself"],
           "answer": "hers",
           "explanation": "这道题考查的是Possessive Pronouns的用法。",
           "chineseTranslation": "这是我的书。你的在哪里？",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1008,
           "type": "multiple_choice",
           "question": "The car is ________. It belongs to them.",
-          "options": [
-            "theirs",
-            "their",
-            "them",
-            "themselves"
-          ],
+          "options": ["theirs", "their", "them", "themselves"],
           "answer": "theirs",
           "explanation": "这道题考查的是Possessive Pronouns的用法。",
           "chineseTranslation": "这是我的书。你的在哪里？",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1009,
           "type": "multiple_choice",
           "question": "The house is ________. It belongs to us.",
-          "options": [
-            "ours",
-            "our",
-            "us",
-            "ourselves"
-          ],
+          "options": ["ours", "our", "us", "ourselves"],
           "answer": "ours",
           "explanation": "这道题考查的是Possessive Pronouns的用法。",
           "chineseTranslation": "这是我的书。你的在哪里？",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1010,
           "type": "multiple_choice",
           "question": "The book is ________. It belongs to him.",
-          "options": [
-            "his",
-            "him",
-            "he",
-            "himself"
-          ],
+          "options": ["his", "him", "he", "himself"],
           "answer": "his",
           "explanation": "这道题考查的是Possessive Pronouns的用法。",
           "chineseTranslation": "这是我的书。你的在哪里？",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1011,
           "type": "multiple_choice",
           "question": "This pen is ________, not mine.",
-          "options": [
-            "yours",
-            "your",
-            "you",
-            "yourself"
-          ],
+          "options": ["yours", "your", "you", "yourself"],
           "answer": "yours",
           "explanation": "这道题考查的是Possessive Pronouns的用法。",
           "chineseTranslation": "这是我的书。你的在哪里？",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1012,
           "type": "multiple_choice",
           "question": "That umbrella is ________, not hers.",
-          "options": [
-            "his",
-            "him",
-            "he",
-            "himself"
-          ],
+          "options": ["his", "him", "he", "himself"],
           "answer": "his",
           "explanation": "这道题考查的是Possessive Pronouns的用法。",
           "chineseTranslation": "这是我的书。你的在哪里？",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1013,
           "type": "multiple_choice",
           "question": "These shoes are ________, not theirs.",
-          "options": [
-            "ours",
-            "our",
-            "us",
-            "ourselves"
-          ],
+          "options": ["ours", "our", "us", "ourselves"],
           "answer": "ours",
           "explanation": "这道题考查的是Possessive Pronouns的用法。",
           "chineseTranslation": "这是我的书。你的在哪里？",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1014,
           "type": "multiple_choice",
           "question": "That bag is ________, not ours.",
-          "options": [
-            "theirs",
-            "their",
-            "them",
-            "themselves"
-          ],
+          "options": ["theirs", "their", "them", "themselves"],
           "answer": "theirs",
           "explanation": "这道题考查的是Possessive Pronouns的用法。",
           "chineseTranslation": "这是我的书。你的在哪里？",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1015,
           "type": "multiple_choice",
           "question": "This notebook is ________, not yours.",
-          "options": [
-            "mine",
-            "my",
-            "me",
-            "myself"
-          ],
+          "options": ["mine", "my", "me", "myself"],
           "answer": "mine",
           "explanation": "这道题考查的是Possessive Pronouns的用法。",
           "chineseTranslation": "这是我的书。你的在哪里？",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1016,
           "type": "multiple_choice",
           "question": "The responsibility is ________. You must do it.",
-          "options": [
-            "yours",
-            "your",
-            "you",
-            "yourself"
-          ],
+          "options": ["yours", "your", "you", "yourself"],
           "answer": "yours",
           "explanation": "这道题考查的是Possessive Pronouns的用法。",
           "chineseTranslation": "这是我的书。你的在哪里？",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1017,
           "type": "multiple_choice",
           "question": "The choice is ________. I will decide.",
-          "options": [
-            "mine",
-            "my",
-            "me",
-            "myself"
-          ],
+          "options": ["mine", "my", "me", "myself"],
           "answer": "mine",
           "explanation": "这道题考查的是Possessive Pronouns的用法。",
           "chineseTranslation": "这是我的书。你的在哪里？",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1018,
           "type": "multiple_choice",
           "question": "The problem is ________. They must solve it.",
-          "options": [
-            "theirs",
-            "their",
-            "them",
-            "themselves"
-          ],
+          "options": ["theirs", "their", "them", "themselves"],
           "answer": "theirs",
           "explanation": "这道题考查的是Possessive Pronouns的用法。",
           "chineseTranslation": "这是我的书。你的在哪里？",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1019,
           "type": "multiple_choice",
           "question": "The opportunity is ________. We should take it.",
-          "options": [
-            "ours",
-            "our",
-            "us",
-            "ourselves"
-          ],
+          "options": ["ours", "our", "us", "ourselves"],
           "answer": "ours",
           "explanation": "这道题考查的是Possessive Pronouns的用法。",
           "chineseTranslation": "这是我的书。你的在哪里？",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1020,
           "type": "multiple_choice",
           "question": "The decision is ________. He will make it.",
-          "options": [
-            "his",
-            "him",
-            "he",
-            "himself"
-          ],
+          "options": ["his", "him", "he", "himself"],
           "answer": "his",
           "explanation": "这道题考查的是Possessive Pronouns的用法。",
           "chineseTranslation": "这是我的书。你的在哪里？",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         }
       ]
     },
@@ -3496,341 +2251,201 @@
           "id": 1101,
           "type": "multiple_choice",
           "question": "The man ________ is talking to the teacher is my uncle.",
-          "options": [
-            "who",
-            "that",
-            "which",
-            "whose"
-          ],
+          "options": ["who", "that", "which", "whose"],
           "answer": "who",
           "explanation": "这道题考查的是Relative Clauses: who/that的用法。",
           "chineseTranslation": "正在和老师说话的男人是我的叔叔。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1102,
           "type": "multiple_choice",
           "question": "The woman ________ works at the shelter is very kind.",
-          "options": [
-            "who",
-            "that",
-            "which",
-            "whose"
-          ],
+          "options": ["who", "that", "which", "whose"],
           "answer": "who",
           "explanation": "这道题考查的是Relative Clauses: who/that的用法。",
           "chineseTranslation": "正在和老师说话的男人是我的叔叔。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1103,
           "type": "multiple_choice",
           "question": "The detective ________ solved the mystery is famous.",
-          "options": [
-            "who",
-            "that",
-            "which",
-            "whose"
-          ],
+          "options": ["who", "that", "which", "whose"],
           "answer": "who",
           "explanation": "这道题考查的是Relative Clauses: who/that的用法。",
           "chineseTranslation": "正在和老师说话的男人是我的叔叔。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1104,
           "type": "multiple_choice",
           "question": "The boy ________ is playing in the park is my brother.",
-          "options": [
-            "who",
-            "that",
-            "which",
-            "whose"
-          ],
+          "options": ["who", "that", "which", "whose"],
           "answer": "who",
           "explanation": "这道题考查的是Relative Clauses: who/that的用法。",
           "chineseTranslation": "正在和老师说话的男人是我的叔叔。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1105,
           "type": "multiple_choice",
           "question": "The girl ________ won the award is very smart.",
-          "options": [
-            "who",
-            "that",
-            "which",
-            "whose"
-          ],
+          "options": ["who", "that", "which", "whose"],
           "answer": "who",
           "explanation": "这道题考查的是Relative Clauses: who/that的用法。",
           "chineseTranslation": "正在和老师说话的男人是我的叔叔。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1106,
           "type": "multiple_choice",
           "question": "The author ________ wrote this book is very talented.",
-          "options": [
-            "who",
-            "that",
-            "which",
-            "whose"
-          ],
+          "options": ["who", "that", "which", "whose"],
           "answer": "who",
           "explanation": "这道题考查的是Relative Clauses: who/that的用法。",
           "chineseTranslation": "正在和老师说话的男人是我的叔叔。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1107,
           "type": "multiple_choice",
           "question": "The volunteer ________ helped us yesterday is very kind.",
-          "options": [
-            "who",
-            "that",
-            "which",
-            "whose"
-          ],
+          "options": ["who", "that", "which", "whose"],
           "answer": "who",
           "explanation": "这道题考查的是Relative Clauses: who/that的用法。",
           "chineseTranslation": "正在和老师说话的男人是我的叔叔。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1108,
           "type": "multiple_choice",
           "question": "The interviewer ________ asked me questions was very professional.",
-          "options": [
-            "who",
-            "that",
-            "which",
-            "whose"
-          ],
+          "options": ["who", "that", "which", "whose"],
           "answer": "who",
           "explanation": "这道题考查的是Relative Clauses: who/that的用法。",
           "chineseTranslation": "正在和老师说话的男人是我的叔叔。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1109,
           "type": "multiple_choice",
           "question": "The gentleman ________ donated money is very generous.",
-          "options": [
-            "who",
-            "that",
-            "which",
-            "whose"
-          ],
+          "options": ["who", "that", "which", "whose"],
           "answer": "who",
           "explanation": "这道题考查的是Relative Clauses: who/that的用法。",
           "chineseTranslation": "正在和老师说话的男人是我的叔叔。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1110,
           "type": "multiple_choice",
           "question": "The lady ________ made a difference in the community is respected.",
-          "options": [
-            "who",
-            "that",
-            "which",
-            "whose"
-          ],
+          "options": ["who", "that", "which", "whose"],
           "answer": "who",
           "explanation": "这道题考查的是Relative Clauses: who/that的用法。",
           "chineseTranslation": "正在和老师说话的男人是我的叔叔。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1111,
           "type": "multiple_choice",
           "question": "The person ________ I met yesterday is a teacher.",
-          "options": [
-            "who",
-            "that",
-            "which",
-            "whose"
-          ],
+          "options": ["who", "that", "which", "whose"],
           "answer": "who",
           "explanation": "这道题考查的是Relative Clauses: who/that的用法。",
           "chineseTranslation": "正在和老师说话的男人是我的叔叔。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1112,
           "type": "multiple_choice",
           "question": "The people ________ work at the organization are dedicated.",
-          "options": [
-            "who",
-            "that",
-            "which",
-            "whose"
-          ],
+          "options": ["who", "that", "which", "whose"],
           "answer": "who",
           "explanation": "这道题考查的是Relative Clauses: who/that的用法。",
           "chineseTranslation": "正在和老师说话的男人是我的叔叔。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1113,
           "type": "multiple_choice",
           "question": "The student ________ studied hard passed the exam.",
-          "options": [
-            "who",
-            "that",
-            "which",
-            "whose"
-          ],
+          "options": ["who", "that", "which", "whose"],
           "answer": "who",
           "explanation": "这道题考查的是Relative Clauses: who/that的用法。",
           "chineseTranslation": "正在和老师说话的男人是我的叔叔。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1114,
           "type": "multiple_choice",
           "question": "The librarian ________ recommended this book is very knowledgeable.",
-          "options": [
-            "who",
-            "that",
-            "which",
-            "whose"
-          ],
+          "options": ["who", "that", "which", "whose"],
           "answer": "who",
           "explanation": "这道题考查的是Relative Clauses: who/that的用法。",
           "chineseTranslation": "正在和老师说话的男人是我的叔叔。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1115,
           "type": "multiple_choice",
           "question": "The detective ________ investigated the case is very experienced.",
-          "options": [
-            "who",
-            "that",
-            "which",
-            "whose"
-          ],
+          "options": ["who", "that", "which", "whose"],
           "answer": "who",
           "explanation": "这道题考查的是Relative Clauses: who/that的用法。",
           "chineseTranslation": "正在和老师说话的男人是我的叔叔。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1116,
           "type": "multiple_choice",
           "question": "The volunteer ________ works at the shelter is very patient.",
-          "options": [
-            "who",
-            "that",
-            "which",
-            "whose"
-          ],
+          "options": ["who", "that", "which", "whose"],
           "answer": "who",
           "explanation": "这道题考查的是Relative Clauses: who/that的用法。",
           "chineseTranslation": "正在和老师说话的男人是我的叔叔。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1117,
           "type": "multiple_choice",
           "question": "The interviewer ________ conducted the interview was very fair.",
-          "options": [
-            "who",
-            "that",
-            "which",
-            "whose"
-          ],
+          "options": ["who", "that", "which", "whose"],
           "answer": "who",
           "explanation": "这道题考查的是Relative Clauses: who/that的用法。",
           "chineseTranslation": "正在和老师说话的男人是我的叔叔。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1118,
           "type": "multiple_choice",
           "question": "The youth ________ joined the organization is very enthusiastic.",
-          "options": [
-            "who",
-            "that",
-            "which",
-            "whose"
-          ],
+          "options": ["who", "that", "which", "whose"],
           "answer": "who",
           "explanation": "这道题考查的是Relative Clauses: who/that的用法。",
           "chineseTranslation": "正在和老师说话的男人是我的叔叔。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1119,
           "type": "multiple_choice",
           "question": "The man ________ I saw yesterday is a famous actor.",
-          "options": [
-            "who",
-            "that",
-            "which",
-            "whose"
-          ],
+          "options": ["who", "that", "which", "whose"],
           "answer": "who",
           "explanation": "这道题考查的是Relative Clauses: who/that的用法。",
           "chineseTranslation": "正在和老师说话的男人是我的叔叔。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1120,
           "type": "multiple_choice",
           "question": "The woman ________ spoke at the meeting is very eloquent.",
-          "options": [
-            "who",
-            "that",
-            "which",
-            "whose"
-          ],
+          "options": ["who", "that", "which", "whose"],
           "answer": "who",
           "explanation": "这道题考查的是Relative Clauses: who/that的用法。",
           "chineseTranslation": "正在和老师说话的男人是我的叔叔。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         }
       ]
     },
@@ -3844,341 +2459,201 @@
           "id": 1201,
           "type": "multiple_choice",
           "question": "This is the factory ________ my father worked.",
-          "options": [
-            "where",
-            "which",
-            "that",
-            "when"
-          ],
+          "options": ["where", "which", "that", "when"],
           "answer": "where",
           "explanation": "这道题考查的是Relative Clauses: where的用法。",
           "chineseTranslation": "这是我父亲工作的工厂。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1202,
           "type": "multiple_choice",
           "question": "The shelter ________ they volunteer is very clean.",
-          "options": [
-            "where",
-            "which",
-            "that",
-            "when"
-          ],
+          "options": ["where", "which", "that", "when"],
           "answer": "where",
           "explanation": "这道题考查的是Relative Clauses: where的用法。",
           "chineseTranslation": "这是我父亲工作的工厂。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1203,
           "type": "multiple_choice",
           "question": "The city ________ she was born is very beautiful.",
-          "options": [
-            "where",
-            "which",
-            "that",
-            "when"
-          ],
+          "options": ["where", "which", "that", "when"],
           "answer": "where",
           "explanation": "这道题考查的是Relative Clauses: where的用法。",
           "chineseTranslation": "这是我父亲工作的工厂。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1204,
           "type": "multiple_choice",
           "question": "The school ________ I studied is very famous.",
-          "options": [
-            "where",
-            "which",
-            "that",
-            "when"
-          ],
+          "options": ["where", "which", "that", "when"],
           "answer": "where",
           "explanation": "这道题考查的是Relative Clauses: where的用法。",
           "chineseTranslation": "这是我父亲工作的工厂。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1205,
           "type": "multiple_choice",
           "question": "The library ________ we read books is very quiet.",
-          "options": [
-            "where",
-            "which",
-            "that",
-            "when"
-          ],
+          "options": ["where", "which", "that", "when"],
           "answer": "where",
           "explanation": "这道题考查的是Relative Clauses: where的用法。",
           "chineseTranslation": "这是我父亲工作的工厂。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1206,
           "type": "multiple_choice",
           "question": "The office ________ he works is very modern.",
-          "options": [
-            "where",
-            "which",
-            "that",
-            "when"
-          ],
+          "options": ["where", "which", "that", "when"],
           "answer": "where",
           "explanation": "这道题考查的是Relative Clauses: where的用法。",
           "chineseTranslation": "这是我父亲工作的工厂。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1207,
           "type": "multiple_choice",
           "question": "The stadium ________ they played is very large.",
-          "options": [
-            "where",
-            "which",
-            "that",
-            "when"
-          ],
+          "options": ["where", "which", "that", "when"],
           "answer": "where",
           "explanation": "这道题考查的是Relative Clauses: where的用法。",
           "chineseTranslation": "这是我父亲工作的工厂。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1208,
           "type": "multiple_choice",
           "question": "The restaurant ________ we had dinner is very good.",
-          "options": [
-            "where",
-            "which",
-            "that",
-            "when"
-          ],
+          "options": ["where", "which", "that", "when"],
           "answer": "where",
           "explanation": "这道题考查的是Relative Clauses: where的用法。",
           "chineseTranslation": "这是我父亲工作的工厂。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1209,
           "type": "multiple_choice",
           "question": "The hospital ________ she was treated is very professional.",
-          "options": [
-            "where",
-            "which",
-            "that",
-            "when"
-          ],
+          "options": ["where", "which", "that", "when"],
           "answer": "where",
           "explanation": "这道题考查的是Relative Clauses: where的用法。",
           "chineseTranslation": "这是我父亲工作的工厂。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1210,
           "type": "multiple_choice",
           "question": "The park ________ children play is very safe.",
-          "options": [
-            "where",
-            "which",
-            "that",
-            "when"
-          ],
+          "options": ["where", "which", "that", "when"],
           "answer": "where",
           "explanation": "这道题考查的是Relative Clauses: where的用法。",
           "chineseTranslation": "这是我父亲工作的工厂。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1211,
           "type": "multiple_choice",
           "question": "The place ________ the mystery happened is very mysterious.",
-          "options": [
-            "where",
-            "which",
-            "that",
-            "when"
-          ],
+          "options": ["where", "which", "that", "when"],
           "answer": "where",
           "explanation": "这道题考查的是Relative Clauses: where的用法。",
           "chineseTranslation": "这是我父亲工作的工厂。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1212,
           "type": "multiple_choice",
           "question": "The room ________ the interview was conducted is very comfortable.",
-          "options": [
-            "where",
-            "which",
-            "that",
-            "when"
-          ],
+          "options": ["where", "which", "that", "when"],
           "answer": "where",
           "explanation": "这道题考查的是Relative Clauses: where的用法。",
           "chineseTranslation": "这是我父亲工作的工厂。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1213,
           "type": "multiple_choice",
           "question": "The street ________ the accident occurred is very busy.",
-          "options": [
-            "where",
-            "which",
-            "that",
-            "when"
-          ],
+          "options": ["where", "which", "that", "when"],
           "answer": "where",
           "explanation": "这道题考查的是Relative Clauses: where的用法。",
           "chineseTranslation": "这是我父亲工作的工厂。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1214,
           "type": "multiple_choice",
           "question": "The building ________ the organization is located is very tall.",
-          "options": [
-            "where",
-            "which",
-            "that",
-            "when"
-          ],
+          "options": ["where", "which", "that", "when"],
           "answer": "where",
           "explanation": "这道题考查的是Relative Clauses: where的用法。",
           "chineseTranslation": "这是我父亲工作的工厂。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1215,
           "type": "multiple_choice",
           "question": "The country ________ he was born is very rich in culture.",
-          "options": [
-            "where",
-            "which",
-            "that",
-            "when"
-          ],
+          "options": ["where", "which", "that", "when"],
           "answer": "where",
           "explanation": "这道题考查的是Relative Clauses: where的用法。",
           "chineseTranslation": "这是我父亲工作的工厂。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1216,
           "type": "multiple_choice",
           "question": "The area ________ the shelter is situated is very poor.",
-          "options": [
-            "where",
-            "which",
-            "that",
-            "when"
-          ],
+          "options": ["where", "which", "that", "when"],
           "answer": "where",
           "explanation": "这道题考查的是Relative Clauses: where的用法。",
           "chineseTranslation": "这是我父亲工作的工厂。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1217,
           "type": "multiple_choice",
           "question": "The village ________ they grew up is very peaceful.",
-          "options": [
-            "where",
-            "which",
-            "that",
-            "when"
-          ],
+          "options": ["where", "which", "that", "when"],
           "answer": "where",
           "explanation": "这道题考查的是Relative Clauses: where的用法。",
           "chineseTranslation": "这是我父亲工作的工厂。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1218,
           "type": "multiple_choice",
           "question": "The town ________ the event took place is very crowded.",
-          "options": [
-            "where",
-            "which",
-            "that",
-            "when"
-          ],
+          "options": ["where", "which", "that", "when"],
           "answer": "where",
           "explanation": "这道题考查的是Relative Clauses: where的用法。",
           "chineseTranslation": "这是我父亲工作的工厂。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1219,
           "type": "multiple_choice",
           "question": "The region ________ the army fought is very mountainous.",
-          "options": [
-            "where",
-            "which",
-            "that",
-            "when"
-          ],
+          "options": ["where", "which", "that", "when"],
           "answer": "where",
           "explanation": "这道题考查的是Relative Clauses: where的用法。",
           "chineseTranslation": "这是我父亲工作的工厂。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         },
         {
           "id": 1220,
           "type": "multiple_choice",
           "question": "The location ________ the book is set is very exotic.",
-          "options": [
-            "where",
-            "which",
-            "that",
-            "when"
-          ],
+          "options": ["where", "which", "that", "when"],
           "answer": "where",
           "explanation": "这道题考查的是Relative Clauses: where的用法。",
           "chineseTranslation": "这是我父亲工作的工厂。",
-          "vocabulary": [
-            "vocabulary"
-          ]
+          "vocabulary": ["vocabulary"]
         }
       ]
     }
