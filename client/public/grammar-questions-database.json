@@ -1,0 +1,1258 @@
+{
+  "metadata": {
+    "totalQuestions": 115,
+    "grammarPoints": 12,
+    "version": "2.0",
+    "designStandard": "Signal words mandatory - no ambiguous questions"
+  },
+  "grammarPoints": [
+    {
+      "id": 1,
+      "name": "Simple Present Tense",
+      "englishName": "Simple Present Tense",
+      "description": "用于表示现在的事实、习惯性动作或普遍真理。标志词：always, usually, often, sometimes, never, every day等。",
+      "questions": [
+        {
+          "id": 101,
+          "type": "multiple_choice",
+          "question": "The librarian ________ (recommend) good books to readers **every day**.",
+          "options": ["recommends", "recommend", "is recommending", "has recommended"],
+          "answer": "recommends",
+          "explanation": "题目中出现了 **every day**，这是典型的一般现在时标志词，表示日常习惯性动作。动词需用第三人称单数形式 recommends。",
+          "chineseTranslation": "图书管理员**每天**向读者推荐好书。",
+          "vocabulary": ["librarian", "recommend"]
+        },
+        {
+          "id": 102,
+          "type": "fill_blank",
+          "question": "She **always** ________ (read) mystery novels in her free time.",
+          "answer": "reads",
+          "explanation": "**always** 是一般现在时的标志词，表示经常性的动作。主语是第三人称单数 She，动词需加 -s。",
+          "chineseTranslation": "她**总是**在空闲时间阅读悬疑小说。",
+          "vocabulary": ["mystery", "read"]
+        },
+        {
+          "id": 103,
+          "type": "multiple_choice",
+          "question": "Young volunteers **often** ________ (help) out at the shelter on weekends.",
+          "options": ["help", "helps", "are helping", "have helped"],
+          "answer": "help",
+          "explanation": "**often** 是一般现在时标志词。主语是复数 volunteers，动词用原形 help。",
+          "chineseTranslation": "年轻志愿者**经常**在周末在收容所帮忙。",
+          "vocabulary": ["volunteer", "help out", "shelter"]
+        },
+        {
+          "id": 104,
+          "type": "word_reordering",
+          "question": "Rearrange: **never** / detective / the / stories / reads / she",
+          "correctOrder": "She never reads detective stories",
+          "answer": "She never reads detective stories",
+          "explanation": "**never** 是一般现在时标志词，表示从不做某事。句子结构：主语 + never + 动词原形/第三人称单数 + 宾语。",
+          "chineseTranslation": "她从不阅读侦探故事。",
+          "vocabulary": ["detective", "read"]
+        },
+        {
+          "id": 105,
+          "type": "fill_blank",
+          "question": "The organization ________ (provide) donations to those **in need** **every month**.",
+          "answer": "provides",
+          "explanation": "**every month** 是一般现在时标志词。主语 organization 是第三人称单数，动词加 -s。",
+          "chineseTranslation": "这个组织**每个月**向**需要帮助的人**提供捐赠。",
+          "vocabulary": ["organization", "provide", "donation", "in need"]
+        },
+        {
+          "id": 106,
+          "type": "multiple_choice",
+          "question": "He ________ (consider) literary works **usually** before making a recommendation.",
+          "options": ["considers", "consider", "is considering", "will consider"],
+          "answer": "considers",
+          "explanation": "**usually** 是一般现在时标志词。主语 He 是第三人称单数。",
+          "chineseTranslation": "他**通常**在做推荐之前考虑文学作品。",
+          "vocabulary": ["consider", "literary", "recommendation"]
+        },
+        {
+          "id": 107,
+          "type": "fill_blank",
+          "question": "Dogs at the shelter ________ (bark) **loudly** when visitors **come along**.",
+          "answer": "bark",
+          "explanation": "**come along** 和 **loudly** 表示习惯性动作。主语是复数 Dogs，动词用原形。",
+          "chineseTranslation": "收容所的狗当访客**来临**时会**大声吠叫**。",
+          "vocabulary": ["bark", "shelter", "come along", "visitor"]
+        },
+        {
+          "id": 108,
+          "type": "multiple_choice",
+          "question": "The elderly ________ (value) teamwork and practical help **most of all**.",
+          "options": ["value", "values", "are valuing", "have valued"],
+          "answer": "value",
+          "explanation": "**most of all** 是一般现在时标志词。主语 the elderly 是复数，动词用原形。",
+          "chineseTranslation": "老年人**最重视**团队合作和实际帮助。",
+          "vocabulary": ["elderly", "value", "teamwork", "practical"]
+        },
+        {
+          "id": 109,
+          "type": "fill_blank",
+          "question": "Aliens in science fiction ________ (attack) Earth **often** in stories.",
+          "answer": "attack",
+          "explanation": "**often** 是一般现在时标志词，表示经常发生的事。主语是复数 Aliens，动词用原形。",
+          "chineseTranslation": "科幻故事中外星人**经常**攻击地球。",
+          "vocabulary": ["alien", "attack", "science fiction"]
+        },
+        {
+          "id": 110,
+          "type": "multiple_choice",
+          "question": "The interviewer ________ (sign up) for charity events **every year**.",
+          "options": ["signs up", "sign up", "is signing up", "has signed up"],
+          "answer": "signs up",
+          "explanation": "**every year** 是一般现在时标志词。主语 interviewer 是第三人称单数。",
+          "chineseTranslation": "采访者**每年**都报名参加慈善活动。",
+          "vocabulary": ["interviewer", "sign up", "charity"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Simple Past Tense",
+      "englishName": "Simple Past Tense",
+      "description": "用于表示过去某个时间完成的动作。标志词：yesterday, last week, ago, in 2010等。",
+      "questions": [
+        {
+          "id": 201,
+          "type": "multiple_choice",
+          "question": "She ________ (hear) of the mystery novel **last week**.",
+          "options": ["heard", "hears", "has heard", "was hearing"],
+          "answer": "heard",
+          "explanation": "**last week** 是一般过去时标志词，表示过去某个具体时间。",
+          "chineseTranslation": "她**上周**听说了这部悬疑小说。",
+          "vocabulary": ["hear of", "mystery"]
+        },
+        {
+          "id": 202,
+          "type": "fill_blank",
+          "question": "The detective ________ (steal) the evidence **yesterday** and ________ (lock) it up.",
+          "answer": "stole, locked",
+          "explanation": "**yesterday** 是一般过去时标志词。两个动作都发生在过去，使用过去式。",
+          "chineseTranslation": "侦探**昨天**偷了证据并把它**锁了起来**。",
+          "vocabulary": ["detective", "steal", "lock up"]
+        },
+        {
+          "id": 203,
+          "type": "multiple_choice",
+          "question": "The enemy ________ (destroy) the stadium **three days ago**.",
+          "options": ["destroyed", "destroys", "has destroyed", "is destroying"],
+          "answer": "destroyed",
+          "explanation": "**three days ago** 是一般过去时标志词，表示过去的时间点。",
+          "chineseTranslation": "敌人**三天前**摧毁了体育馆。",
+          "vocabulary": ["enemy", "destroy", "stadium"]
+        },
+        {
+          "id": 204,
+          "type": "word_reordering",
+          "question": "Rearrange: **last night** / the / defeated / army / the / force",
+          "correctOrder": "The army defeated the force last night",
+          "answer": "The army defeated the force last night",
+          "explanation": "**last night** 是一般过去时标志词。",
+          "chineseTranslation": "军队**昨晚**击败了敌方势力。",
+          "vocabulary": ["army", "defeat", "force"]
+        },
+        {
+          "id": 205,
+          "type": "fill_blank",
+          "question": "He ________ (get lost) **on the way** to the organization **yesterday**.",
+          "answer": "got lost",
+          "explanation": "**yesterday** 和 **on the way** 是一般过去时标志词。",
+          "chineseTranslation": "他**昨天****在去组织的路上****迷路了**。",
+          "vocabulary": ["get lost", "organization"]
+        },
+        {
+          "id": 206,
+          "type": "multiple_choice",
+          "question": "The lady ________ (donate) her pocket money to the youth **last month**.",
+          "options": ["donated", "donates", "has donated", "is donating"],
+          "answer": "donated",
+          "explanation": "**last month** 是一般过去时标志词。",
+          "chineseTranslation": "这位女士**上个月**把她的零花钱捐给了青年。",
+          "vocabulary": ["lady", "donate", "pocket", "youth"]
+        },
+        {
+          "id": 207,
+          "type": "fill_blank",
+          "question": "The interviewer ________ (prove) the hidden truth **two weeks ago**.",
+          "answer": "proved",
+          "explanation": "**two weeks ago** 是一般过去时标志词。",
+          "chineseTranslation": "采访者**两周前**证明了隐藏的真相。",
+          "vocabulary": ["interviewer", "prove", "hidden"]
+        },
+        {
+          "id": 208,
+          "type": "multiple_choice",
+          "question": "The gentleman ________ (help out) at the shelter **in 2020**.",
+          "options": ["helped out", "helps out", "has helped out", "is helping out"],
+          "answer": "helped out",
+          "explanation": "**in 2020** 是一般过去时标志词，表示过去的年份。",
+          "chineseTranslation": "这位绅士**在2020年**在收容所帮忙。",
+          "vocabulary": ["gentleman", "help out", "shelter"]
+        },
+        {
+          "id": 209,
+          "type": "fill_blank",
+          "question": "The naughty boy ________ (unlock) the cage **secretly** **last night**.",
+          "answer": "unlocked",
+          "explanation": "**last night** 是一般过去时标志词。**secretly** 表示动作的方式。",
+          "chineseTranslation": "这个调皮的男孩**昨晚****秘密地****打开了**笼子。",
+          "vocabulary": ["naughty", "unlock", "cage", "secretly"]
+        },
+        {
+          "id": 210,
+          "type": "multiple_choice",
+          "question": "The weak enemy ________ (punish) the soldiers **harshly** **a month ago**.",
+          "options": ["punished", "punishes", "has punished", "is punishing"],
+          "answer": "punished",
+          "explanation": "**a month ago** 是一般过去时标志词。",
+          "chineseTranslation": "这个虚弱的敌人**一个月前****严厉地****惩罚了**士兵。",
+          "vocabulary": ["weak", "punish"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Present Perfect Tense",
+      "englishName": "Present Perfect Tense",
+      "description": "用于表示从过去开始一直持续到现在的动作，或对现在有影响的过去动作。标志词：already, yet, just, since, for, ever等。",
+      "questions": [
+        {
+          "id": 301,
+          "type": "multiple_choice",
+          "question": "She ________ (read) the science fiction novel **already**.",
+          "options": ["has read", "reads", "read", "is reading"],
+          "answer": "has read",
+          "explanation": "**already** 是现在完成时标志词，表示动作已经完成。",
+          "chineseTranslation": "她**已经**读过这部科幻小说了。",
+          "vocabulary": ["read", "science fiction"]
+        },
+        {
+          "id": 302,
+          "type": "fill_blank",
+          "question": "The organization ________ (make) a difference **for many years**.",
+          "answer": "has made",
+          "explanation": "**for many years** 是现在完成时标志词，表示从过去持续到现在的动作。",
+          "chineseTranslation": "这个组织**多年来**一直在产生影响。",
+          "vocabulary": ["organization", "make a difference"]
+        },
+        {
+          "id": 303,
+          "type": "multiple_choice",
+          "question": "The volunteers ________ (sign up) for the charity event **yet**?",
+          "options": ["Have signed up", "Do sign up", "Are signing up", "Will sign up"],
+          "answer": "Have signed up",
+          "explanation": "**yet** 是现在完成时标志词，常用于疑问句。",
+          "chineseTranslation": "志愿者们**还没有**报名参加慈善活动吗？",
+          "vocabulary": ["volunteer", "sign up", "charity"]
+        },
+        {
+          "id": 304,
+          "type": "word_reordering",
+          "question": "Rearrange: **ever since** / the / worked / youth / they / have",
+          "correctOrder": "They have worked ever since the youth",
+          "answer": "They have worked ever since the youth",
+          "explanation": "**ever since** 是现在完成时标志词，表示从某个时间点开始一直持续。",
+          "chineseTranslation": "自从那时起，他们一直在工作。",
+          "vocabulary": ["youth", "work"]
+        },
+        {
+          "id": 305,
+          "type": "fill_blank",
+          "question": "He ________ (hear) of this adventure **just**.",
+          "answer": "has just heard",
+          "explanation": "**just** 是现在完成时标志词，表示刚刚发生的事。",
+          "chineseTranslation": "他**刚刚**听说了这次冒险。",
+          "vocabulary": ["hear of", "adventure"]
+        },
+        {
+          "id": 306,
+          "type": "multiple_choice",
+          "question": "The librarian ________ (recommend) this book **since last year**.",
+          "options": ["has recommended", "recommends", "recommended", "is recommending"],
+          "answer": "has recommended",
+          "explanation": "**since last year** 是现在完成时标志词，表示从过去某个时间持续到现在。",
+          "chineseTranslation": "这位图书管理员**从去年以来**一直在推荐这本书。",
+          "vocabulary": ["librarian", "recommend"]
+        },
+        {
+          "id": 307,
+          "type": "fill_blank",
+          "question": "The elderly ________ (value) teamwork and practical help **for decades**.",
+          "answer": "have valued",
+          "explanation": "**for decades** 是现在完成时标志词，表示长期持续的动作。",
+          "chineseTranslation": "老年人**几十年来**一直重视团队合作和实际帮助。",
+          "vocabulary": ["elderly", "value", "teamwork", "practical"]
+        },
+        {
+          "id": 308,
+          "type": "multiple_choice",
+          "question": "The interviewer ________ (interview) many people **already**.",
+          "options": ["has interviewed", "interviews", "interviewed", "is interviewing"],
+          "answer": "has interviewed",
+          "explanation": "**already** 是现在完成时标志词。",
+          "chineseTranslation": "采访者**已经**采访了很多人。",
+          "vocabulary": ["interviewer", "interview"]
+        },
+        {
+          "id": 309,
+          "type": "fill_blank",
+          "question": "The gentleman ________ (donate) his effort to the community **for years**.",
+          "answer": "has donated",
+          "explanation": "**for years** 是现在完成时标志词。",
+          "chineseTranslation": "这位绅士**多年来**一直在为社区贡献力量。",
+          "vocabulary": ["gentleman", "donate", "effort"]
+        },
+        {
+          "id": 310,
+          "type": "multiple_choice",
+          "question": "The organization ________ (help out) the youth **since 2015**.",
+          "options": ["has helped out", "helps out", "helped out", "is helping out"],
+          "answer": "has helped out",
+          "explanation": "**since 2015** 是现在完成时标志词。",
+          "chineseTranslation": "这个组织**自2015年以来**一直在帮助青年。",
+          "vocabulary": ["organization", "help out", "youth"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Passive Voice",
+      "englishName": "Passive Voice",
+      "description": "用于表示动作的承受者作为主语。标志词：by, is/are/was/were + 过去分词。",
+      "questions": [
+        {
+          "id": 401,
+          "type": "multiple_choice",
+          "question": "The mystery novel ________ (write) **by** a famous author.",
+          "options": ["is written", "writes", "is writing", "has written"],
+          "answer": "is written",
+          "explanation": "被动语态结构：be + 过去分词。**by** 是被动语态标志词。",
+          "chineseTranslation": "这部悬疑小说是**由**一位著名作家写的。",
+          "vocabulary": ["mystery", "write"]
+        },
+        {
+          "id": 402,
+          "type": "fill_blank",
+          "question": "The evidence ________ (steal) **by** the detective **yesterday**.",
+          "answer": "was stolen",
+          "explanation": "**by** 是被动语态标志词。**yesterday** 表示过去，所以用过去被动式 was stolen。",
+          "chineseTranslation": "证据**昨天****被**侦探偷走了。",
+          "vocabulary": ["steal", "detective"]
+        },
+        {
+          "id": 403,
+          "type": "multiple_choice",
+          "question": "The stadium ________ (destroy) **by** the enemy **last month**.",
+          "options": ["was destroyed", "is destroyed", "destroys", "destroyed"],
+          "answer": "was destroyed",
+          "explanation": "**by** 和 **last month** 表示过去被动。",
+          "chineseTranslation": "体育馆**上个月****被**敌人摧毁了。",
+          "vocabulary": ["destroy", "enemy", "stadium"]
+        },
+        {
+          "id": 404,
+          "type": "word_reordering",
+          "question": "Rearrange: **by** / the / punished / soldiers / were / force",
+          "correctOrder": "The soldiers were punished by the force",
+          "answer": "The soldiers were punished by the force",
+          "explanation": "被动语态：were + 过去分词 + by + 施动者。",
+          "chineseTranslation": "士兵们**被**这股势力惩罚了。",
+          "vocabulary": ["punish", "force"]
+        },
+        {
+          "id": 405,
+          "type": "fill_blank",
+          "question": "The donation ________ (provide) **by** the organization **to those in need**.",
+          "answer": "is provided",
+          "explanation": "**by** 是被动语态标志词。",
+          "chineseTranslation": "捐赠**由**这个组织**提供给**需要帮助的人。",
+          "vocabulary": ["donation", "provide", "organization", "in need"]
+        },
+        {
+          "id": 406,
+          "type": "multiple_choice",
+          "question": "The book ________ (recommend) **by** the librarian **every week**.",
+          "options": ["is recommended", "recommends", "is recommending", "has recommended"],
+          "answer": "is recommended",
+          "explanation": "**by** 是被动语态标志词。**every week** 表示现在的习惯性动作。",
+          "chineseTranslation": "这本书**每周****都被**图书管理员推荐。",
+          "vocabulary": ["recommend", "librarian"]
+        },
+        {
+          "id": 407,
+          "type": "fill_blank",
+          "question": "The hidden truth ________ (prove) **by** the interviewer **recently**.",
+          "answer": "was proved",
+          "explanation": "**by** 是被动语态标志词。**recently** 表示最近的过去。",
+          "chineseTranslation": "隐藏的真相**最近****被**采访者证明了。",
+          "vocabulary": ["prove", "hidden", "interviewer"]
+        },
+        {
+          "id": 408,
+          "type": "multiple_choice",
+          "question": "The cage ________ (unlock) **by** the naughty boy **last night**.",
+          "options": ["was unlocked", "is unlocked", "unlocks", "unlocked"],
+          "answer": "was unlocked",
+          "explanation": "**by** 和 **last night** 表示过去被动。",
+          "chineseTranslation": "笼子**昨晚****被**这个调皮的男孩打开了。",
+          "vocabulary": ["unlock", "naughty", "cage"]
+        },
+        {
+          "id": 409,
+          "type": "fill_blank",
+          "question": "The effort ________ (donate) **by** the volunteers **for the community**.",
+          "answer": "is donated",
+          "explanation": "**by** 是被动语态标志词。",
+          "chineseTranslation": "志愿者们**为**社区**贡献的**力量。",
+          "vocabulary": ["donate", "effort", "volunteer"]
+        },
+        {
+          "id": 410,
+          "type": "multiple_choice",
+          "question": "The advertisement ________ (hand out) **by** the lady **yesterday**.",
+          "options": ["was handed out", "is handed out", "hands out", "handed out"],
+          "answer": "was handed out",
+          "explanation": "**by** 和 **yesterday** 表示过去被动。",
+          "chineseTranslation": "广告**昨天****被**这位女士分发了。",
+          "vocabulary": ["hand out", "advertisement", "lady"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Usage of 'so...that'",
+      "englishName": "Usage of 'so...that'",
+      "description": "表示'如此...以至于'，用来表示结果。标志词：so...that结构。",
+      "questions": [
+        {
+          "id": 501,
+          "type": "multiple_choice",
+          "question": "The story was **so** interesting **that** everyone ________ (want) to read it.",
+          "options": ["wanted", "wants", "is wanting", "has wanted"],
+          "answer": "wanted",
+          "explanation": "**so...that** 结构表示结果。前面是过去式 was，所以后面也用过去式 wanted。",
+          "chineseTranslation": "这个故事**如此**有趣**以至于**每个人都想读它。",
+          "vocabulary": ["story", "read"]
+        },
+        {
+          "id": 502,
+          "type": "fill_blank",
+          "question": "The mystery was **so** confusing **that** the detective ________ (cannot) solve it.",
+          "answer": "could not",
+          "explanation": "**so...that** 结构。前面是过去式 was，后面用 could not。",
+          "chineseTranslation": "这个谜团**如此**令人困惑**以至于**侦探无法解决它。",
+          "vocabulary": ["mystery", "detective"]
+        },
+        {
+          "id": 503,
+          "type": "multiple_choice",
+          "question": "The recommendation was **so** helpful **that** she ________ (recommend) it to others.",
+          "options": ["recommended", "recommends", "is recommending", "has recommended"],
+          "answer": "recommended",
+          "explanation": "**so...that** 结构表示结果。",
+          "chineseTranslation": "这个推荐**如此**有帮助**以至于**她把它推荐给了其他人。",
+          "vocabulary": ["recommendation", "recommend"]
+        },
+        {
+          "id": 504,
+          "type": "word_reordering",
+          "question": "Rearrange: **so** / **that** / help / could / the / the / weak / they / elderly",
+          "correctOrder": "The elderly were so weak that they could not help",
+          "answer": "The elderly were so weak that they could not help",
+          "explanation": "**so...that** 结构表示结果关系。",
+          "chineseTranslation": "老年人**如此**虚弱**以至于**他们无法帮助。",
+          "vocabulary": ["elderly", "weak", "help"]
+        },
+        {
+          "id": 505,
+          "type": "fill_blank",
+          "question": "The donation was **so** generous **that** the organization ________ (can) help many people.",
+          "answer": "could",
+          "explanation": "**so...that** 结构。前面是过去式 was，后面用 could。",
+          "chineseTranslation": "这个捐赠**如此**慷慨**以至于**这个组织能够帮助很多人。",
+          "vocabulary": ["donation", "generous", "organization"]
+        },
+        {
+          "id": 506,
+          "type": "multiple_choice",
+          "question": "The alien attack was **so** sudden **that** the army ________ (not prepare) for it.",
+          "options": ["was not prepared", "is not prepared", "were not prepared", "are not prepared"],
+          "answer": "was not prepared",
+          "explanation": "**so...that** 结构。前面是过去式 was，后面用过去式 was not prepared。",
+          "chineseTranslation": "外星人的攻击**如此**突然**以至于**军队没有做好准备。",
+          "vocabulary": ["alien", "attack", "army"]
+        },
+        {
+          "id": 507,
+          "type": "fill_blank",
+          "question": "The effort was **so** practical **that** the volunteers ________ (succeed) in helping the youth.",
+          "answer": "succeeded",
+          "explanation": "**so...that** 结构表示结果。",
+          "chineseTranslation": "这个努力**如此**实际**以至于**志愿者们成功地帮助了青年。",
+          "vocabulary": ["effort", "practical", "volunteer", "youth"]
+        },
+        {
+          "id": 508,
+          "type": "multiple_choice",
+          "question": "The interview was **so** detailed **that** the interviewer ________ (prove) the truth.",
+          "options": ["proved", "proves", "is proving", "has proved"],
+          "answer": "proved",
+          "explanation": "**so...that** 结构。前面是过去式 was，后面用过去式 proved。",
+          "chineseTranslation": "这次采访**如此**详细**以至于**采访者证明了真相。",
+          "vocabulary": ["interview", "detailed", "interviewer", "prove"]
+        },
+        {
+          "id": 509,
+          "type": "fill_blank",
+          "question": "The book was **so** spoiled **that** nobody ________ (want) to read it.",
+          "answer": "wanted",
+          "explanation": "**so...that** 结构。前面是过去式 was，后面用过去式 wanted。",
+          "chineseTranslation": "这本书**如此**被破坏**以至于**没人想读它。",
+          "vocabulary": ["spoiled", "book"]
+        },
+        {
+          "id": 510,
+          "type": "multiple_choice",
+          "question": "The shelter was **so** crowded **that** the owner ________ (need) more space.",
+          "options": ["needed", "needs", "is needing", "has needed"],
+          "answer": "needed",
+          "explanation": "**so...that** 结构。",
+          "chineseTranslation": "收容所**如此**拥挤**以至于**主人需要更多的空间。",
+          "vocabulary": ["shelter", "crowded", "owner"]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Usage of 'when' and 'while'",
+      "englishName": "Usage of 'when' and 'while'",
+      "description": "'when' 表示某一时刻，'while' 表示一段时间。标志词：when, while。",
+      "questions": [
+        {
+          "id": 601,
+          "type": "multiple_choice",
+          "question": "**When** she ________ (hear) of the adventure, she was excited.",
+          "options": ["heard", "hears", "was hearing", "has heard"],
+          "answer": "heard",
+          "explanation": "**when** 引导时间状语从句，表示某一时刻。前面是过去式 was，所以从句也用过去式。",
+          "chineseTranslation": "**当**她听说这次冒险时，她很兴奋。",
+          "vocabulary": ["hear of", "adventure"]
+        },
+        {
+          "id": 602,
+          "type": "fill_blank",
+          "question": "**While** the detective ________ (investigate), he found the hidden evidence.",
+          "answer": "was investigating",
+          "explanation": "**while** 表示一段时间内的动作。用过去进行时 was investigating。",
+          "chineseTranslation": "**当**侦探在调查时，他发现了隐藏的证据。",
+          "vocabulary": ["detective", "investigate", "hidden"]
+        },
+        {
+          "id": 603,
+          "type": "multiple_choice",
+          "question": "**When** the army ________ (arrive), the enemy had already fled.",
+          "options": ["arrived", "arrives", "was arriving", "has arrived"],
+          "answer": "arrived",
+          "explanation": "**when** 引导时间状语从句。",
+          "chineseTranslation": "**当**军队到达时，敌人已经逃离了。",
+          "vocabulary": ["army", "arrive", "enemy"]
+        },
+        {
+          "id": 604,
+          "type": "word_reordering",
+          "question": "Rearrange: **while** / the / reading / was / she / book / the",
+          "correctOrder": "While she was reading the book",
+          "answer": "While she was reading the book",
+          "explanation": "**while** 表示一段时间内的动作，用过去进行时。",
+          "chineseTranslation": "**当**她在读书时。",
+          "vocabulary": ["read", "book"]
+        },
+        {
+          "id": 605,
+          "type": "fill_blank",
+          "question": "**When** the volunteers ________ (help out) at the shelter, they met many animals.",
+          "answer": "were helping out",
+          "explanation": "**when** 可以表示一段时间。这里用过去进行时。",
+          "chineseTranslation": "**当**志愿者们在收容所帮忙时，他们遇到了很多动物。",
+          "vocabulary": ["volunteer", "help out", "shelter"]
+        },
+        {
+          "id": 606,
+          "type": "multiple_choice",
+          "question": "**While** the interviewer ________ (interview) the lady, she revealed the truth.",
+          "options": ["was interviewing", "interviews", "interviewed", "has interviewed"],
+          "answer": "was interviewing",
+          "explanation": "**while** 表示一段时间内的动作，用过去进行时。",
+          "chineseTranslation": "**当**采访者在采访这位女士时，她透露了真相。",
+          "vocabulary": ["interviewer", "interview", "lady"]
+        },
+        {
+          "id": 607,
+          "type": "fill_blank",
+          "question": "**When** the elderly ________ (donate) their effort, the community appreciated it.",
+          "answer": "donated",
+          "explanation": "**when** 引导时间状语从句。",
+          "chineseTranslation": "**当**老年人贡献他们的力量时，社区很感激。",
+          "vocabulary": ["elderly", "donate", "effort"]
+        },
+        {
+          "id": 608,
+          "type": "multiple_choice",
+          "question": "**While** the naughty boy ________ (unlock) the cage, the dog escaped.",
+          "options": ["was unlocking", "unlocks", "unlocked", "has unlocked"],
+          "answer": "was unlocking",
+          "explanation": "**while** 表示一段时间内的动作，用过去进行时。",
+          "chineseTranslation": "**当**这个调皮的男孩在打开笼子时，狗逃脱了。",
+          "vocabulary": ["naughty", "unlock", "cage"]
+        },
+        {
+          "id": 609,
+          "type": "fill_blank",
+          "question": "**When** the librarian ________ (recommend) the book, everyone listened carefully.",
+          "answer": "recommended",
+          "explanation": "**when** 引导时间状语从句。",
+          "chineseTranslation": "**当**图书管理员推荐这本书时，每个人都认真听。",
+          "vocabulary": ["librarian", "recommend", "book"]
+        },
+        {
+          "id": 610,
+          "type": "multiple_choice",
+          "question": "**While** the organization ________ (provide) donations, many people benefited.",
+          "options": ["was providing", "provides", "provided", "has provided"],
+          "answer": "was providing",
+          "explanation": "**while** 表示一段时间内的动作。",
+          "chineseTranslation": "**当**这个组织在提供捐赠时，很多人受益了。",
+          "vocabulary": ["organization", "provide", "donation"]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Usage of 'as soon as'",
+      "englishName": "Usage of 'as soon as'",
+      "description": "'as soon as' 表示'一...就...'，引导时间状语从句。标志词：as soon as。",
+      "questions": [
+        {
+          "id": 701,
+          "type": "multiple_choice",
+          "question": "**As soon as** she ________ (hear) of the mystery, she wanted to solve it.",
+          "options": ["heard", "hears", "was hearing", "has heard"],
+          "answer": "heard",
+          "explanation": "**as soon as** 引导时间状语从句。前面是过去式 wanted，所以从句也用过去式。",
+          "chineseTranslation": "**一**她听说这个谜团，她就想解决它。",
+          "vocabulary": ["hear of", "mystery"]
+        },
+        {
+          "id": 702,
+          "type": "fill_blank",
+          "question": "**As soon as** the detective ________ (find) the evidence, he reported it.",
+          "answer": "found",
+          "explanation": "**as soon as** 引导时间状语从句。",
+          "chineseTranslation": "**一**侦探找到证据，他就报告了。",
+          "vocabulary": ["detective", "find", "evidence"]
+        },
+        {
+          "id": 703,
+          "type": "multiple_choice",
+          "question": "**As soon as** the army ________ (arrive), the battle began.",
+          "options": ["arrived", "arrives", "was arriving", "has arrived"],
+          "answer": "arrived",
+          "explanation": "**as soon as** 引导时间状语从句。",
+          "chineseTranslation": "**一**军队到达，战斗就开始了。",
+          "vocabulary": ["army", "arrive", "battle"]
+        },
+        {
+          "id": 704,
+          "type": "word_reordering",
+          "question": "Rearrange: **as soon as** / she / the / read / finished / book",
+          "correctOrder": "As soon as she finished reading the book",
+          "answer": "As soon as she finished reading the book",
+          "explanation": "**as soon as** 引导时间状语从句。",
+          "chineseTranslation": "**一**她读完这本书。",
+          "vocabulary": ["read", "book"]
+        },
+        {
+          "id": 705,
+          "type": "fill_blank",
+          "question": "**As soon as** the volunteers ________ (arrive) at the shelter, they started helping.",
+          "answer": "arrived",
+          "explanation": "**as soon as** 引导时间状语从句。",
+          "chineseTranslation": "**一**志愿者们到达收容所，他们就开始帮忙。",
+          "vocabulary": ["volunteer", "arrive", "shelter"]
+        },
+        {
+          "id": 706,
+          "type": "multiple_choice",
+          "question": "**As soon as** the interviewer ________ (ask) the question, the lady answered.",
+          "options": ["asked", "asks", "was asking", "has asked"],
+          "answer": "asked",
+          "explanation": "**as soon as** 引导时间状语从句。",
+          "chineseTranslation": "**一**采访者问这个问题，这位女士就回答了。",
+          "vocabulary": ["interviewer", "ask", "lady"]
+        },
+        {
+          "id": 707,
+          "type": "fill_blank",
+          "question": "**As soon as** the gentleman ________ (sign up) for the charity, he felt happy.",
+          "answer": "signed up",
+          "explanation": "**as soon as** 引导时间状语从句。",
+          "chineseTranslation": "**一**这位绅士报名参加慈善活动，他就感到高兴。",
+          "vocabulary": ["gentleman", "sign up", "charity"]
+        },
+        {
+          "id": 708,
+          "type": "multiple_choice",
+          "question": "**As soon as** the naughty boy ________ (unlock) the cage, the dog ran away.",
+          "options": ["unlocked", "unlocks", "was unlocking", "has unlocked"],
+          "answer": "unlocked",
+          "explanation": "**as soon as** 引导时间状语从句。",
+          "chineseTranslation": "**一**这个调皮的男孩打开笼子，狗就跑了。",
+          "vocabulary": ["naughty", "unlock", "cage"]
+        },
+        {
+          "id": 709,
+          "type": "fill_blank",
+          "question": "**As soon as** the librarian ________ (recommend) the book, everyone wanted to read it.",
+          "answer": "recommended",
+          "explanation": "**as soon as** 引导时间状语从句。",
+          "chineseTranslation": "**一**图书管理员推荐这本书，每个人都想读它。",
+          "vocabulary": ["librarian", "recommend", "book"]
+        },
+        {
+          "id": 710,
+          "type": "multiple_choice",
+          "question": "**As soon as** the organization ________ (hand out) the advertisement, people came.",
+          "options": ["handed out", "hands out", "was handing out", "has handed out"],
+          "answer": "handed out",
+          "explanation": "**as soon as** 引导时间状语从句。",
+          "chineseTranslation": "**一**这个组织分发广告，人们就来了。",
+          "vocabulary": ["organization", "hand out", "advertisement"]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Usage of 'unless'",
+      "englishName": "Usage of 'unless'",
+      "description": "'unless' 表示'除非'，相当于 'if not'。标志词：unless。",
+      "questions": [
+        {
+          "id": 801,
+          "type": "multiple_choice",
+          "question": "**Unless** you ________ (read) the book, you won't understand the mystery.",
+          "options": ["read", "reads", "are reading", "have read"],
+          "answer": "read",
+          "explanation": "**unless** 引导条件状语从句，相当于 'if not'。用一般现在时。",
+          "chineseTranslation": "**除非**你读这本书，否则你不会理解这个谜团。",
+          "vocabulary": ["read", "book", "mystery"]
+        },
+        {
+          "id": 802,
+          "type": "fill_blank",
+          "question": "**Unless** the detective ________ (find) the evidence, the case cannot be solved.",
+          "answer": "finds",
+          "explanation": "**unless** 引导条件状语从句。",
+          "chineseTranslation": "**除非**侦探找到证据，否则案件无法解决。",
+          "vocabulary": ["detective", "find", "evidence"]
+        },
+        {
+          "id": 803,
+          "type": "multiple_choice",
+          "question": "**Unless** the army ________ (be) strong, they cannot defeat the enemy.",
+          "options": ["is", "are", "was", "were"],
+          "answer": "is",
+          "explanation": "**unless** 引导条件状语从句。主语是 the army（单数），用 is。",
+          "chineseTranslation": "**除非**军队很强大，否则他们无法击败敌人。",
+          "vocabulary": ["army", "defeat", "enemy"]
+        },
+        {
+          "id": 804,
+          "type": "word_reordering",
+          "question": "Rearrange: **unless** / help / the / will / volunteers / not / shelter",
+          "correctOrder": "Unless the volunteers help the shelter will not",
+          "answer": "Unless the volunteers help the shelter will not",
+          "explanation": "**unless** 引导条件状语从句。",
+          "chineseTranslation": "**除非**志愿者帮忙，否则收容所不会。",
+          "vocabulary": ["volunteer", "help", "shelter"]
+        },
+        {
+          "id": 805,
+          "type": "fill_blank",
+          "question": "**Unless** the organization ________ (provide) donations, the youth cannot get help.",
+          "answer": "provides",
+          "explanation": "**unless** 引导条件状语从句。",
+          "chineseTranslation": "**除非**这个组织提供捐赠，否则青年无法获得帮助。",
+          "vocabulary": ["organization", "provide", "donation", "youth"]
+        },
+        {
+          "id": 806,
+          "type": "multiple_choice",
+          "question": "**Unless** the interviewer ________ (ask) carefully, the truth won't come out.",
+          "options": ["asks", "ask", "is asking", "has asked"],
+          "answer": "asks",
+          "explanation": "**unless** 引导条件状语从句。主语是 the interviewer（单数），用 asks。",
+          "chineseTranslation": "**除非**采访者仔细提问，否则真相不会显露。",
+          "vocabulary": ["interviewer", "ask"]
+        },
+        {
+          "id": 807,
+          "type": "fill_blank",
+          "question": "**Unless** the elderly ________ (value) teamwork, the community cannot succeed.",
+          "answer": "value",
+          "explanation": "**unless** 引导条件状语从句。主语是 the elderly（复数），用 value。",
+          "chineseTranslation": "**除非**老年人重视团队合作，否则社区无法成功。",
+          "vocabulary": ["elderly", "value", "teamwork"]
+        },
+        {
+          "id": 808,
+          "type": "multiple_choice",
+          "question": "**Unless** the gentleman ________ (donate) his effort, the project will fail.",
+          "options": ["donates", "donate", "is donating", "has donated"],
+          "answer": "donates",
+          "explanation": "**unless** 引导条件状语从句。主语是 the gentleman（单数），用 donates。",
+          "chineseTranslation": "**除非**这位绅士贡献他的力量，否则这个项目会失败。",
+          "vocabulary": ["gentleman", "donate", "effort"]
+        },
+        {
+          "id": 809,
+          "type": "fill_blank",
+          "question": "**Unless** the librarian ________ (recommend) good books, readers cannot find them.",
+          "answer": "recommends",
+          "explanation": "**unless** 引导条件状语从句。主语是 the librarian（单数），用 recommends。",
+          "chineseTranslation": "**除非**图书管理员推荐好书，否则读者找不到它们。",
+          "vocabulary": ["librarian", "recommend", "book"]
+        },
+        {
+          "id": 810,
+          "type": "multiple_choice",
+          "question": "**Unless** the naughty boy ________ (be) punished, he will keep doing bad things.",
+          "options": ["is", "are", "was", "were"],
+          "answer": "is",
+          "explanation": "**unless** 引导条件状语从句。主语是 the naughty boy（单数），用 is。",
+          "chineseTranslation": "**除非**这个调皮的男孩受到惩罚，否则他会继续做坏事。",
+          "vocabulary": ["naughty", "punish"]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Past Participle as Post-modifier",
+      "englishName": "Past Participle as Post-modifier",
+      "description": "过去分词作后置定语，表示被动关系或完成含义。标志词：by + 施动者、in + 年份/地点、last + 时间。",
+      "questions": [
+        {
+          "id": 901,
+          "type": "multiple_choice",
+          "question": "The mystery novel ________ (write) **by** a famous author is very popular.",
+          "options": ["written", "writing", "writes", "wrote"],
+          "answer": "written",
+          "explanation": "过去分词作后置定语，表示被动关系。**by** 是标志词。",
+          "chineseTranslation": "**由**著名作家写的悬疑小说很受欢迎。",
+          "vocabulary": ["mystery", "write"]
+        },
+        {
+          "id": 902,
+          "type": "fill_blank",
+          "question": "The evidence ________ (steal) **by** the detective **last year** was very important.",
+          "answer": "stolen",
+          "explanation": "过去分词作后置定语。**by** 和 **last year** 是标志词。",
+          "chineseTranslation": "**去年****被**侦探偷走的证据非常重要。",
+          "vocabulary": ["steal", "detective", "evidence"]
+        },
+        {
+          "id": 903,
+          "type": "multiple_choice",
+          "question": "The stadium ________ (destroy) **in 2020** was rebuilt recently.",
+          "options": ["destroyed", "destroying", "destroys", "destroy"],
+          "answer": "destroyed",
+          "explanation": "过去分词作后置定语。**in 2020** 是标志词。",
+          "chineseTranslation": "**在2020年****被**摧毁的体育馆最近被重建了。",
+          "vocabulary": ["destroy", "stadium"]
+        },
+        {
+          "id": 904,
+          "type": "word_reordering",
+          "question": "Rearrange: **by** / the / defeated / force / army / the",
+          "correctOrder": "The army defeated by the force",
+          "answer": "The army defeated by the force",
+          "explanation": "过去分词作后置定语。**by** 是标志词。",
+          "chineseTranslation": "**被**这股势力击败的军队。",
+          "vocabulary": ["defeat", "force", "army"]
+        },
+        {
+          "id": 905,
+          "type": "fill_blank",
+          "question": "The donation ________ (provide) **by** the organization **last month** helped many people.",
+          "answer": "provided",
+          "explanation": "过去分词作后置定语。**by** 和 **last month** 是标志词。",
+          "chineseTranslation": "**上个月****由**这个组织提供的捐赠帮助了很多人。",
+          "vocabulary": ["provide", "donation", "organization"]
+        },
+        {
+          "id": 906,
+          "type": "multiple_choice",
+          "question": "The book ________ (recommend) **by** the librarian is a bestseller.",
+          "options": ["recommended", "recommending", "recommends", "recommend"],
+          "answer": "recommended",
+          "explanation": "过去分词作后置定语。**by** 是标志词。",
+          "chineseTranslation": "**由**图书管理员推荐的书是畅销书。",
+          "vocabulary": ["recommend", "librarian", "book"]
+        },
+        {
+          "id": 907,
+          "type": "fill_blank",
+          "question": "The hidden truth ________ (prove) **by** the interviewer **recently** shocked everyone.",
+          "answer": "proved",
+          "explanation": "过去分词作后置定语。**by** 和 **recently** 是标志词。",
+          "chineseTranslation": "**最近****被**采访者证明的隐藏真相震惊了所有人。",
+          "vocabulary": ["prove", "hidden", "interviewer"]
+        },
+        {
+          "id": 908,
+          "type": "multiple_choice",
+          "question": "The cage ________ (unlock) **by** the naughty boy was empty.",
+          "options": ["unlocked", "unlocking", "unlocks", "unlock"],
+          "answer": "unlocked",
+          "explanation": "过去分词作后置定语。**by** 是标志词。",
+          "chineseTranslation": "**被**这个调皮的男孩打开的笼子是空的。",
+          "vocabulary": ["unlock", "naughty", "cage"]
+        },
+        {
+          "id": 909,
+          "type": "fill_blank",
+          "question": "The effort ________ (donate) **by** the volunteers **for years** made a difference.",
+          "answer": "donated",
+          "explanation": "过去分词作后置定语。**by** 和 **for years** 是标志词。",
+          "chineseTranslation": "志愿者们**多年来****贡献的**力量产生了影响。",
+          "vocabulary": ["donate", "effort", "volunteer"]
+        },
+        {
+          "id": 910,
+          "type": "multiple_choice",
+          "question": "The advertisement ________ (hand out) **by** the lady **yesterday** was very effective.",
+          "options": ["handed out", "handing out", "hands out", "hand out"],
+          "answer": "handed out",
+          "explanation": "过去分词作后置定语。**by** 和 **yesterday** 是标志词。",
+          "chineseTranslation": "**昨天****由**这位女士分发的广告非常有效。",
+          "vocabulary": ["hand out", "advertisement", "lady"]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Possessive Pronouns",
+      "englishName": "Possessive Pronouns",
+      "description": "物主代词分为形容词性（my, your, his...）和名词性（mine, yours, his...）。标志词：两个主体的对比，第二个主体后无名词。",
+      "questions": [
+        {
+          "id": 1001,
+          "type": "multiple_choice",
+          "question": "This is **my** book. Where is ________ (you)?",
+          "options": ["yours", "your", "you", "yourself"],
+          "answer": "yours",
+          "explanation": "第一句用形容词性 my + 名词 book。第二句后面没有名词，需要用名词性 yours。",
+          "chineseTranslation": "这是**我的**书。**你的**在哪里？",
+          "vocabulary": ["book"]
+        },
+        {
+          "id": 1002,
+          "type": "fill_blank",
+          "question": "His adventure is exciting. ________ (she) is boring.",
+          "answer": "Hers",
+          "explanation": "对比两个主体。His adventure 对应 hers（名词性）。",
+          "chineseTranslation": "他的冒险很刺激。**她的**很无聊。",
+          "vocabulary": ["adventure"]
+        },
+        {
+          "id": 1003,
+          "type": "multiple_choice",
+          "question": "The recommendation is **their** suggestion. The recommendation is ________ (we).",
+          "options": ["ours", "our", "us", "ourselves"],
+          "answer": "ours",
+          "explanation": "对比两个主体。后面没有名词，需要用名词性 ours。",
+          "chineseTranslation": "这个推荐是**他们的**建议。这个推荐是**我们的**。",
+          "vocabulary": ["recommendation"]
+        },
+        {
+          "id": 1004,
+          "type": "word_reordering",
+          "question": "Rearrange: **his** / book / is / **hers** / is / this / that",
+          "correctOrder": "This is his book that is hers",
+          "answer": "This is his book that is hers",
+          "explanation": "形容词性 his + 名词，名词性 hers 单独使用。",
+          "chineseTranslation": "这是他的书，那是她的。",
+          "vocabulary": ["book"]
+        },
+        {
+          "id": 1005,
+          "type": "fill_blank",
+          "question": "The shelter is **their** responsibility. The shelter is ________ (we).",
+          "answer": "ours",
+          "explanation": "对比两个主体。后面没有名词，需要用名词性 ours。",
+          "chineseTranslation": "收容所是**他们的**责任。收容所是**我们的**。",
+          "vocabulary": ["shelter"]
+        },
+        {
+          "id": 1006,
+          "type": "multiple_choice",
+          "question": "The effort is **my** contribution. The effort is ________ (you).",
+          "options": ["yours", "your", "you", "yourself"],
+          "answer": "yours",
+          "explanation": "对比两个主体。后面没有名词，需要用名词性 yours。",
+          "chineseTranslation": "这个努力是**我的**贡献。这个努力是**你的**。",
+          "vocabulary": ["effort"]
+        },
+        {
+          "id": 1007,
+          "type": "fill_blank",
+          "question": "The donation is **his** idea. The donation is ________ (she).",
+          "answer": "hers",
+          "explanation": "对比两个主体。后面没有名词，需要用名词性 hers。",
+          "chineseTranslation": "这个捐赠是**他的**想法。这个捐赠是**她的**。",
+          "vocabulary": ["donation"]
+        },
+        {
+          "id": 1008,
+          "type": "multiple_choice",
+          "question": "The recommendation is **their** choice. The recommendation is ________ (I).",
+          "options": ["mine", "my", "me", "myself"],
+          "answer": "mine",
+          "explanation": "对比两个主体。后面没有名词，需要用名词性 mine。",
+          "chineseTranslation": "这个推荐是**他们的**选择。这个推荐是**我的**。",
+          "vocabulary": ["recommendation"]
+        },
+        {
+          "id": 1009,
+          "type": "fill_blank",
+          "question": "The book is **her** favorite. The book is ________ (he).",
+          "answer": "his",
+          "explanation": "对比两个主体。后面没有名词，但 his 既可以是形容词性也可以是名词性。",
+          "chineseTranslation": "这本书是**她的**最爱。这本书是**他的**。",
+          "vocabulary": ["book"]
+        },
+        {
+          "id": 1010,
+          "type": "multiple_choice",
+          "question": "The adventure is **their** story. The adventure is ________ (we).",
+          "options": ["ours", "our", "us", "ourselves"],
+          "answer": "ours",
+          "explanation": "对比两个主体。后面没有名词，需要用名词性 ours。",
+          "chineseTranslation": "这次冒险是**他们的**故事。这次冒险是**我们的**。",
+          "vocabulary": ["adventure"]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Relative Clauses: who/that",
+      "englishName": "Relative Clauses: who/that",
+      "description": "定语从句中 who 用于人作主语/宾语，that 用于人或物作主语/宾语。标志词：先行词属性明确。",
+      "questions": [
+        {
+          "id": 1101,
+          "type": "multiple_choice",
+          "question": "The **man** ________ (be) talking to the teacher is my uncle.",
+          "options": ["who is", "that is", "which is", "whose is"],
+          "answer": "who is",
+          "explanation": "先行词是 man（人），在从句中作主语。用 who is。",
+          "chineseTranslation": "**正在**和老师说话的**男人**是我的叔叔。",
+          "vocabulary": ["man", "teacher"]
+        },
+        {
+          "id": 1102,
+          "type": "fill_blank",
+          "question": "The **detective** ________ (find) the evidence is very clever.",
+          "answer": "who/that found",
+          "explanation": "先行词是 detective（人），在从句中作主语。用 who 或 that。",
+          "chineseTranslation": "找到证据的**侦探**很聪明。",
+          "vocabulary": ["detective", "find", "evidence"]
+        },
+        {
+          "id": 1103,
+          "type": "multiple_choice",
+          "question": "The **lady** ________ (recommend) this book is a librarian.",
+          "options": ["who", "that", "which", "whose"],
+          "answer": "who",
+          "explanation": "先行词是 lady（人），在从句中作主语。用 who 或 that。",
+          "chineseTranslation": "推荐这本书的**女士**是图书管理员。",
+          "vocabulary": ["lady", "recommend", "book"]
+        },
+        {
+          "id": 1104,
+          "type": "word_reordering",
+          "question": "Rearrange: **who** / is / the / interviewer / talking / **that** / is / the / man",
+          "correctOrder": "The man who is talking is the interviewer that",
+          "answer": "The man who is talking is the interviewer that",
+          "explanation": "定语从句中 who/that 引导。",
+          "chineseTranslation": "正在说话的男人是采访者。",
+          "vocabulary": ["man", "interviewer"]
+        },
+        {
+          "id": 1105,
+          "type": "fill_blank",
+          "question": "The **volunteer** ________ (help) at the shelter is very kind.",
+          "answer": "who/that helps",
+          "explanation": "先行词是 volunteer（人），在从句中作主语。",
+          "chineseTranslation": "在收容所帮忙的**志愿者**很善良。",
+          "vocabulary": ["volunteer", "help", "shelter"]
+        },
+        {
+          "id": 1106,
+          "type": "multiple_choice",
+          "question": "The **gentleman** ________ (donate) his effort is respected by everyone.",
+          "options": ["who", "that", "which", "whose"],
+          "answer": "who",
+          "explanation": "先行词是 gentleman（人），在从句中作主语。",
+          "chineseTranslation": "贡献力量的**绅士**受到所有人的尊重。",
+          "vocabulary": ["gentleman", "donate", "effort"]
+        },
+        {
+          "id": 1107,
+          "type": "fill_blank",
+          "question": "The **interviewer** ________ (prove) the truth is very professional.",
+          "answer": "who/that proved",
+          "explanation": "先行词是 interviewer（人），在从句中作主语。",
+          "chineseTranslation": "证明真相的**采访者**很专业。",
+          "vocabulary": ["interviewer", "prove"]
+        },
+        {
+          "id": 1108,
+          "type": "multiple_choice",
+          "question": "The **boy** ________ (unlock) the cage is naughty.",
+          "options": ["who", "that", "which", "whose"],
+          "answer": "who",
+          "explanation": "先行词是 boy（人），在从句中作主语。",
+          "chineseTranslation": "打开笼子的**男孩**很调皮。",
+          "vocabulary": ["boy", "unlock", "cage"]
+        },
+        {
+          "id": 1109,
+          "type": "fill_blank",
+          "question": "The **author** ________ (write) this mystery novel is famous.",
+          "answer": "who/that wrote",
+          "explanation": "先行词是 author（人），在从句中作主语。",
+          "chineseTranslation": "写这部悬疑小说的**作者**很有名。",
+          "vocabulary": ["author", "write", "mystery"]
+        },
+        {
+          "id": 1110,
+          "type": "multiple_choice",
+          "question": "The **teacher** ________ (help) the students is very patient.",
+          "options": ["who", "that", "which", "whose"],
+          "answer": "who",
+          "explanation": "先行词是 teacher（人），在从句中作主语。",
+          "chineseTranslation": "帮助学生的**老师**很有耐心。",
+          "vocabulary": ["teacher", "help"]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Relative Clauses: where",
+      "englishName": "Relative Clauses: where",
+      "description": "定语从句中 where 用于地点作地点状语，可转化为 in/at which。标志词：先行词是地点，从句中可转化为 in/at which。",
+      "questions": [
+        {
+          "id": 1201,
+          "type": "multiple_choice",
+          "question": "This is the **factory** ________ my father worked **ten years ago**.",
+          "options": ["where", "which", "that", "when"],
+          "answer": "where",
+          "explanation": "先行词是 factory（地点），在从句中作地点状语。可转化为 in which。**ten years ago** 是标志词。",
+          "chineseTranslation": "这是我父亲**十年前**工作的**工厂**。",
+          "vocabulary": ["factory", "work"]
+        },
+        {
+          "id": 1202,
+          "type": "fill_blank",
+          "question": "The **shelter** ________ the volunteers help is very crowded.",
+          "answer": "where",
+          "explanation": "先行词是 shelter（地点），在从句中作地点状语。",
+          "chineseTranslation": "志愿者们帮忙的**收容所**很拥挤。",
+          "vocabulary": ["shelter", "volunteer", "help"]
+        },
+        {
+          "id": 1203,
+          "type": "multiple_choice",
+          "question": "The **city** ________ the adventure happened is very beautiful.",
+          "options": ["where", "which", "that", "when"],
+          "answer": "where",
+          "explanation": "先行词是 city（地点），在从句中作地点状语。",
+          "chineseTranslation": "冒险发生的**城市**很美。",
+          "vocabulary": ["city", "adventure"]
+        },
+        {
+          "id": 1204,
+          "type": "word_reordering",
+          "question": "Rearrange: **where** / the / library / is / the / book / found",
+          "correctOrder": "The library is where the book is found",
+          "answer": "The library is where the book is found",
+          "explanation": "where 引导定语从句，表示地点。",
+          "chineseTranslation": "图书馆是找到这本书的地方。",
+          "vocabulary": ["library", "book"]
+        },
+        {
+          "id": 1205,
+          "type": "fill_blank",
+          "question": "The **stadium** ________ the army gathered is very large.",
+          "answer": "where",
+          "explanation": "先行词是 stadium（地点），在从句中作地点状语。",
+          "chineseTranslation": "军队集合的**体育馆**很大。",
+          "vocabulary": ["stadium", "army"]
+        },
+        {
+          "id": 1206,
+          "type": "multiple_choice",
+          "question": "The **organization** ________ donations are provided is very helpful.",
+          "options": ["where", "which", "that", "when"],
+          "answer": "where",
+          "explanation": "先行词是 organization（地点），在从句中作地点状语。",
+          "chineseTranslation": "提供捐赠的**组织**很有帮助。",
+          "vocabulary": ["organization", "donation"]
+        },
+        {
+          "id": 1207,
+          "type": "fill_blank",
+          "question": "The **office** ________ the interviewer works is on the fifth floor.",
+          "answer": "where",
+          "explanation": "先行词是 office（地点），在从句中作地点状语。",
+          "chineseTranslation": "采访者工作的**办公室**在五楼。",
+          "vocabulary": ["office", "interviewer"]
+        },
+        {
+          "id": 1208,
+          "type": "multiple_choice",
+          "question": "The **school** ________ the students study is very modern.",
+          "options": ["where", "which", "that", "when"],
+          "answer": "where",
+          "explanation": "先行词是 school（地点），在从句中作地点状语。",
+          "chineseTranslation": "学生们学习的**学校**很现代。",
+          "vocabulary": ["school", "study"]
+        },
+        {
+          "id": 1209,
+          "type": "fill_blank",
+          "question": "The **place** ________ the mystery was solved is now famous.",
+          "answer": "where",
+          "explanation": "先行词是 place（地点），在从句中作地点状语。",
+          "chineseTranslation": "谜团被解决的**地方**现在很有名。",
+          "vocabulary": ["place", "mystery"]
+        },
+        {
+          "id": 1210,
+          "type": "multiple_choice",
+          "question": "The **restaurant** ________ we had lunch is very delicious.",
+          "options": ["where", "which", "that", "when"],
+          "answer": "where",
+          "explanation": "先行词是 restaurant（地点），在从句中作地点状语。",
+          "chineseTranslation": "我们吃午饭的**餐厅**很好吃。",
+          "vocabulary": ["restaurant"]
+        }
+      ]
+    }
+  ]
+}
