@@ -87,7 +87,7 @@ export default function Home() {
               </div>
               <div>
                 <h1 className="text-2xl font-bold text-foreground">中考英语语法复习</h1>
-                <p className="text-sm text-muted-foreground">115道精选题 | 12个语法点</p>
+                <p className="text-sm text-muted-foreground">240道精选题 | 12个语法点</p>
               </div>
             </div>
             <Badge className="bg-green-100 text-green-800 text-sm">v2.0</Badge>
@@ -283,7 +283,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t border-border bg-muted/50 mt-12">
         <div className="container max-w-7xl mx-auto px-4 py-6 text-center text-sm text-muted-foreground">
-          <p>中考英语语法复习网站 v2.0 | 115道精选题 | 12个语法点 | 标志词强制化</p>
+          <p>中考英语语法复习网站 v2.1 | 240道精选题 | 12个语法点 | 标志词强制化</p>
         </div>
       </footer>
     </div>

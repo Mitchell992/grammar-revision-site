@@ -42,23 +42,10 @@ export default function GrammarModule({ grammarPoint }: GrammarModuleProps) {
 
         {/* Question Types */}
         <div className="space-y-3">
-          <h3 className="font-semibold text-foreground">题型分布</h3>
-          <div className="grid grid-cols-3 gap-3">
-            {['选择题', '填空题', '单词重组'].map((type, idx) => {
-              const count = grammarPoint.questions.filter(
-                (q, i) => [
-                  'multiple_choice',
-                  'fill_blank',
-                  'word_reordering'
-                ][idx] === q.type
-              ).length;
-              return (
-                <div key={idx} className="p-3 bg-muted rounded-lg text-center">
-                  <p className="text-sm font-medium">{type}</p>
-                  <p className="text-lg font-bold text-primary">{count}</p>
-                </div>
-              );
-            })}
+          <h3 className="font-semibold text-foreground">题型</h3>
+          <div className="p-3 bg-blue-50 rounded-lg border border-blue-200 text-center">
+            <p className="text-sm font-medium text-blue-900">选择题</p>
+            <p className="text-2xl font-bold text-primary">{grammarPoint.questions.length}</p>
           </div>
         </div>
       </CardContent>

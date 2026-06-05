@@ -29,59 +29,6 @@ export default function PracticeQuestion({ question, onAnswer }: PracticeQuestio
     setIsCorrect(false);
   };
 
-  const renderQuestionContent = () => {
-    switch (question.type) {
-      case 'multiple_choice':
-        return (
-          <div className="space-y-3">
-            <RadioGroup value={selectedAnswer} onValueChange={setSelectedAnswer} disabled={submitted}>
-              {question.options?.map((option, idx) => (
-                <div key={idx} className="flex items-center space-x-2">
-                  <RadioGroupItem value={option} id={`option-${idx}`} />
-                  <Label htmlFor={`option-${idx}`} className="cursor-pointer flex-1">
-                    {option}
-                  </Label>
-                </div>
-              ))}
-            </RadioGroup>
-          </div>
-        );
-
-      case 'fill_blank':
-        return (
-          <div className="space-y-3">
-            <p className="text-base leading-relaxed">{question.question}</p>
-            <input
-              type="text"
-              value={selectedAnswer}
-              onChange={(e) => setSelectedAnswer(e.target.value)}
-              disabled={submitted}
-              placeholder="输入答案"
-              className="w-full px-3 py-2 border border-border rounded-md focus:outline-none focus:ring-2 focus:ring-primary"
-            />
-          </div>
-        );
-
-      case 'word_reordering':
-        return (
-          <div className="space-y-3">
-            <p className="text-base leading-relaxed">{question.question}</p>
-            <textarea
-              value={selectedAnswer}
-              onChange={(e) => setSelectedAnswer(e.target.value)}
-              disabled={submitted}
-              placeholder="输入正确的句子顺序"
-              className="w-full px-3 py-2 border border-border rounded-md focus:outline-none focus:ring-2 focus:ring-primary"
-              rows={3}
-            />
-          </div>
-        );
-
-      default:
-        return null;
-    }
-  };
-
   const renderExplanation = () => {
     const parts = parseExplanation(question.explanation);
     
@@ -112,11 +59,7 @@ export default function PracticeQuestion({ question, onAnswer }: PracticeQuestio
   return (
     <Card className="w-full">
       <CardHeader>
-        <CardTitle className="text-lg">
-          {question.type === 'multiple_choice' && '选择题'}
-          {question.type === 'fill_blank' && '填空题'}
-          {question.type === 'word_reordering' && '单词重组'}
-        </CardTitle>
+        <CardTitle className="text-lg">选择题</CardTitle>
         <CardDescription>
           词汇: {question.vocabulary.join(', ')}
         </CardDescription>
@@ -124,9 +67,22 @@ export default function PracticeQuestion({ question, onAnswer }: PracticeQuestio
 
       <CardContent className="space-y-6">
         {/* Question */}
-        <div className="space-y-3">
+        <div className="space-y-4">
           <p className="text-base leading-relaxed font-medium">{question.question}</p>
-          {renderQuestionContent()}
+          
+          {/* Multiple Choice Options */}
+          <div className="space-y-3">
+            <RadioGroup value={selectedAnswer} onValueChange={setSelectedAnswer} disabled={submitted}>
+              {question.options?.map((option, idx) => (
+                <div key={idx} className="flex items-center space-x-2 p-3 rounded-lg border border-border hover:bg-muted transition-colors cursor-pointer">
+                  <RadioGroupItem value={option} id={`option-${idx}`} />
+                  <Label htmlFor={`option-${idx}`} className="cursor-pointer flex-1 font-medium">
+                    {option}
+                  </Label>
+                </div>
+              ))}
+            </RadioGroup>
+          </div>
         </div>
 
         {/* Buttons */}
