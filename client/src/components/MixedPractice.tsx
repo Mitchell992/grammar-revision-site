@@ -1,9 +1,15 @@
-import { useState, useEffect } from 'react';
-import { Button } from '@/components/ui/button';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
-import { Badge } from '@/components/ui/badge';
-import { Progress } from '@/components/ui/progress';
-import { GrammarPoint, Question } from '@/lib/grammarData';
+import { useState, useEffect } from "react";
+import { Button } from "@/components/ui/button";
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
+import { Progress } from "@/components/ui/progress";
+import { GrammarPoint, Question } from "@/lib/grammarData";
 import {
   createMixedPracticeSession,
   getCurrentQuestion,
@@ -13,16 +19,19 @@ import {
   getSessionStats,
   isSessionComplete,
   MixedPracticeSession,
-} from '@/lib/mixedPractice';
-import PracticeQuestion from './PracticeQuestion';
-import { Clock, CheckCircle2, RotateCcw } from 'lucide-react';
+} from "@/lib/mixedPractice";
+import PracticeQuestion from "./PracticeQuestion";
+import { Clock, CheckCircle2, RotateCcw } from "lucide-react";
 
 interface MixedPracticeProps {
   grammarPoints: GrammarPoint[];
   questionCount?: number;
 }
 
-export default function MixedPractice({ grammarPoints, questionCount = 20 }: MixedPracticeProps) {
+export default function MixedPractice({
+  grammarPoints,
+  questionCount = 20,
+}: MixedPracticeProps) {
   const [session, setSession] = useState<MixedPracticeSession | null>(null);
   const [isStarted, setIsStarted] = useState(false);
   const [isCompleted, setIsCompleted] = useState(false);
@@ -44,9 +53,12 @@ export default function MixedPractice({ grammarPoints, questionCount = 20 }: Mix
     if (session) {
       const newSession = moveToNextQuestion(session);
       setSession(newSession);
-      
+
       // Check if session is complete
-      if (newSession.currentIndex >= newSession.questions.length - 1 && newSession.totalAttempted > 0) {
+      if (
+        newSession.currentIndex >= newSession.questions.length - 1 &&
+        newSession.totalAttempted > 0
+      ) {
         setIsCompleted(true);
       }
     }
@@ -78,17 +90,24 @@ export default function MixedPractice({ grammarPoints, questionCount = 20 }: Mix
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             <div className="p-4 bg-blue-50 rounded-lg border border-blue-200">
               <p className="text-sm text-muted-foreground mb-1">总语法点数</p>
-              <p className="text-3xl font-bold text-primary">{grammarPoints.length}</p>
+              <p className="text-3xl font-bold text-primary">
+                {grammarPoints.length}
+              </p>
             </div>
             <div className="p-4 bg-green-50 rounded-lg border border-green-200">
               <p className="text-sm text-muted-foreground mb-1">总题数</p>
               <p className="text-3xl font-bold text-green-600">
-                {grammarPoints.reduce((sum, gp) => sum + gp.questions.length, 0)}
+                {grammarPoints.reduce(
+                  (sum, gp) => sum + gp.questions.length,
+                  0
+                )}
               </p>
             </div>
             <div className="p-4 bg-purple-50 rounded-lg border border-purple-200">
               <p className="text-sm text-muted-foreground mb-1">本次练习</p>
-              <p className="text-3xl font-bold text-purple-600">{questionCount}</p>
+              <p className="text-3xl font-bold text-purple-600">
+                {questionCount}
+              </p>
             </div>
           </div>
 
@@ -97,7 +116,9 @@ export default function MixedPractice({ grammarPoints, questionCount = 20 }: Mix
             <ul className="space-y-2 text-sm text-muted-foreground">
               <li className="flex items-start gap-2">
                 <span className="text-primary font-bold">•</span>
-                <span>系统将从所有12个语法点中随机选择{questionCount}道题目</span>
+                <span>
+                  系统将从所有12个语法点中随机选择{questionCount}道题目
+                </span>
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-primary font-bold">•</span>
@@ -126,26 +147,26 @@ export default function MixedPractice({ grammarPoints, questionCount = 20 }: Mix
   if (isCompleted && session) {
     const stats = getSessionStats(session);
     const accuracy = stats.accuracy;
-    let feedbackColor = 'text-red-600';
-    let feedbackBg = 'bg-red-50';
-    let feedbackBorder = 'border-red-200';
-    let feedbackMessage = '继续加油！';
+    let feedbackColor = "text-red-600";
+    let feedbackBg = "bg-red-50";
+    let feedbackBorder = "border-red-200";
+    let feedbackMessage = "继续加油！";
 
     if (accuracy >= 90) {
-      feedbackColor = 'text-green-600';
-      feedbackBg = 'bg-green-50';
-      feedbackBorder = 'border-green-200';
-      feedbackMessage = '太棒了！';
+      feedbackColor = "text-green-600";
+      feedbackBg = "bg-green-50";
+      feedbackBorder = "border-green-200";
+      feedbackMessage = "太棒了！";
     } else if (accuracy >= 80) {
-      feedbackColor = 'text-blue-600';
-      feedbackBg = 'bg-blue-50';
-      feedbackBorder = 'border-blue-200';
-      feedbackMessage = '很不错！';
+      feedbackColor = "text-blue-600";
+      feedbackBg = "bg-blue-50";
+      feedbackBorder = "border-blue-200";
+      feedbackMessage = "很不错！";
     } else if (accuracy >= 70) {
-      feedbackColor = 'text-yellow-600';
-      feedbackBg = 'bg-yellow-50';
-      feedbackBorder = 'border-yellow-200';
-      feedbackMessage = '不错！';
+      feedbackColor = "text-yellow-600";
+      feedbackBg = "bg-yellow-50";
+      feedbackBorder = "border-yellow-200";
+      feedbackMessage = "不错！";
     }
 
     return (
@@ -154,13 +175,18 @@ export default function MixedPractice({ grammarPoints, questionCount = 20 }: Mix
           <CardTitle className="text-2xl">练习完成</CardTitle>
         </CardHeader>
         <CardContent className="space-y-6">
-          <div className={`p-6 rounded-lg border-2 ${feedbackBg} ${feedbackBorder}`}>
+          <div
+            className={`p-6 rounded-lg border-2 ${feedbackBg} ${feedbackBorder}`}
+          >
             <div className="flex items-center gap-3 mb-4">
               <CheckCircle2 className={`w-8 h-8 ${feedbackColor}`} />
-              <h3 className={`text-2xl font-bold ${feedbackColor}`}>{feedbackMessage}</h3>
+              <h3 className={`text-2xl font-bold ${feedbackColor}`}>
+                {feedbackMessage}
+              </h3>
             </div>
             <p className={`text-lg ${feedbackColor}`}>
-              你的正确率是 <span className="font-bold text-2xl">{accuracy}%</span>
+              你的正确率是{" "}
+              <span className="font-bold text-2xl">{accuracy}%</span>
             </p>
           </div>
 
@@ -171,15 +197,21 @@ export default function MixedPractice({ grammarPoints, questionCount = 20 }: Mix
             </div>
             <div className="p-4 bg-green-50 rounded-lg border border-green-200">
               <p className="text-xs text-muted-foreground mb-1">正确数</p>
-              <p className="text-2xl font-bold text-green-600">{stats.correct}</p>
+              <p className="text-2xl font-bold text-green-600">
+                {stats.correct}
+              </p>
             </div>
             <div className="p-4 bg-red-50 rounded-lg border border-red-200">
               <p className="text-xs text-muted-foreground mb-1">错误数</p>
-              <p className="text-2xl font-bold text-red-600">{stats.attempted - stats.correct}</p>
+              <p className="text-2xl font-bold text-red-600">
+                {stats.attempted - stats.correct}
+              </p>
             </div>
             <div className="p-4 bg-blue-50 rounded-lg border border-blue-200">
               <p className="text-xs text-muted-foreground mb-1">用时</p>
-              <p className="text-2xl font-bold text-blue-600">{Math.floor(stats.elapsedTime / 60)}分</p>
+              <p className="text-2xl font-bold text-blue-600">
+                {Math.floor(stats.elapsedTime / 60)}分
+              </p>
             </div>
           </div>
 
@@ -238,14 +270,18 @@ export default function MixedPractice({ grammarPoints, questionCount = 20 }: Mix
           <CardContent className="pt-6 space-y-4">
             <div className="flex items-center justify-between">
               <div>
-                <p className="text-sm font-semibold">第 {session.currentIndex + 1} / {stats.totalQuestions} 题</p>
+                <p className="text-sm font-semibold">
+                  第 {session.currentIndex + 1} / {stats.totalQuestions} 题
+                </p>
                 <p className="text-xs text-muted-foreground mt-1">
-                  已完成: {stats.attempted} | 正确: {stats.correct} | 正确率: {stats.accuracy}%
+                  已完成: {stats.attempted} | 正确: {stats.correct} | 正确率:{" "}
+                  {stats.accuracy}%
                 </p>
               </div>
               <Badge variant="secondary" className="flex items-center gap-1">
                 <Clock className="w-3 h-3" />
-                {Math.floor(stats.elapsedTime / 60)}:{String(stats.elapsedTime % 60).padStart(2, '0')}
+                {Math.floor(stats.elapsedTime / 60)}:
+                {String(stats.elapsedTime % 60).padStart(2, "0")}
               </Badge>
             </div>
             <Progress value={progressPercent} className="h-2" />
@@ -253,10 +289,7 @@ export default function MixedPractice({ grammarPoints, questionCount = 20 }: Mix
         </Card>
 
         {/* Question */}
-        <PracticeQuestion 
-          question={currentQuestion}
-          onAnswer={handleAnswer}
-        />
+        <PracticeQuestion question={currentQuestion} onAnswer={handleAnswer} />
 
         {/* Navigation */}
         <div className="flex gap-2">
@@ -275,11 +308,7 @@ export default function MixedPractice({ grammarPoints, questionCount = 20 }: Mix
           >
             下一题
           </Button>
-          <Button
-            variant="ghost"
-            onClick={handleReset}
-            className="flex-1"
-          >
+          <Button variant="ghost" onClick={handleReset} className="flex-1">
             <RotateCcw className="w-4 h-4 mr-2" />
             重新开始
           </Button>
