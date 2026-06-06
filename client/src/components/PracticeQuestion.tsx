@@ -68,7 +68,7 @@ export default function PracticeQuestion({ question, onAnswer }: PracticeQuestio
       <CardHeader>
         <CardTitle className="text-lg">选择题</CardTitle>
         <CardDescription>
-          词汇: {question.vocabulary.join(', ')}
+          词汇: {(question.vocabulary || []).join(', ')}
         </CardDescription>
       </CardHeader>
 
