@@ -136,7 +136,7 @@ export default function Home() {
                       >
                         <div className="flex flex-col gap-1">
                           <span className="font-semibold text-sm">{gp.name}</span>
-                          <span className="text-xs opacity-75">{gp.questions.length} 题</span>
+                          <span className="text-xs opacity-75">{(gp.questions?.length ?? 0)} 题</span>
                         </div>
                       </Button>
                     ))}
@@ -174,7 +174,7 @@ export default function Home() {
                       >
                         <div className="flex flex-col gap-1">
                           <span className="font-semibold text-sm">{gp.name}</span>
-                          <span className="text-xs opacity-75">{gp.questions.length} 题</span>
+                          <span className="text-xs opacity-75">{(gp.questions?.length ?? 0)} 题</span>
                         </div>
                       </Button>
                     ))}

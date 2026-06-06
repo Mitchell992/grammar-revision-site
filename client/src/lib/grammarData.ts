@@ -37,7 +37,19 @@ export const loadGrammarData = async (): Promise<GrammarDatabase> => {
   
   try {
     const response = await fetch('/grammar-questions-database.json');
-    grammarData = await response.json();
+    if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+    
+    const data = await response.json();
+    
+    // Normalize grammar points: ensure each has a questions array
+    if (data.grammarPoints && Array.isArray(data.grammarPoints)) {
+      data.grammarPoints = data.grammarPoints.map((gp: any) => ({
+        ...gp,
+        questions: Array.isArray(gp.questions) ? gp.questions : []
+      }));
+    }
+    
+    grammarData = data;
     return grammarData as GrammarDatabase;
   } catch (error) {
     console.error('Failed to load grammar data:', error);
