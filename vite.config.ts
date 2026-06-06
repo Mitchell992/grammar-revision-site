@@ -8,6 +8,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url))
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
+  root: './client',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './client/src'),
@@ -22,7 +23,7 @@ export default defineConfig({
     },
   },
   build: {
-    outDir: 'dist/public',
+    outDir: '../dist/public',
     emptyOutDir: true,
   },
   base: '/grammar-revision-site/',
